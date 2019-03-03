@@ -4,6 +4,9 @@
 
 <!-- TOC depthFrom:2 depthTo:4 -->
 
+- [Comunidades](#comunidades)
+        - [Desenvolvimento Web](#desenvolvimento-web)
+        - [Etica.AI](#eticaai)
 - [Gratuidades](#gratuidades)
     - [Domínio de top](#domínio-de-top)
         - [Freenom](#freenom)
@@ -13,6 +16,16 @@
 ---
 
 # Recursos
+
+## Comunidades
+
+_TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
+
+#### Desenvolvimento Web
+- Grupo de Facebook: <https://www.facebook.com/groups/desenvolvimentoweb/>
+
+#### Etica.AI
+- Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831/>
 
 ## Gratuidades
 

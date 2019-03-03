@@ -2,7 +2,7 @@
 
 [![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://periferia.etica.ai/)
 
-[![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone)
+[![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Serviços Online](imagens/badges/servicos-online-total.svg)](#serviços-online)
 
 ---
 
@@ -27,6 +27,11 @@
         - [000webhost](#000webhost)
         - [GitHub Pages](#github-pages)
     - [Menções honrosas](#menções-honrosas)
+- [Serviços Online](#serviços-online)
+    - [Chatbot](#chatbot)
+        - [ChatFuel](#chatfuel)
+    - [Inteligência Artificial](#inteligência-artificial)
+        - [DialogFlow](#dialogflow)
 
 <!-- /TOC -->
 
@@ -49,12 +54,17 @@ _TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
 - Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831>
 
 ## Desenvolvimento em smartphone
+Lista de recursos com **versão gratuita plenamente funcional** e que permite
+usar o seu próprio smartphone como ferramenta de trabalho para desenvolvimento
+de softwares. Isto é, **no dia a dia você pode usá-las mesmo sem conexção com a
+internet**.
 
 ### Empacotador
 
 #### Empacotar Apps Android
-> Use sistema operacional Android para criar aplicativos para o sistema
-operacional Android.
+Use sistema operacional Android para **criar aplicativos para o sistema
+operacional Android sem necesidade de ter um computador** ou conecção com a
+internet após o download inicial dos aplicativos.
 
 ##### APK Builder
 - Download:
@@ -188,6 +198,75 @@ comparados à hospedagem paga._ — **Veja [Hospedagem grátis na Wikipédia](ht
     - Motivo da exclusão: requer cartão de crédito; limitado a 12 meses; interface complexa para novos desenvolvedores
 3. [Nível gratuito do Google Cloud Platform](https://cloud.google.com/free/?hl=pt-br)
     - Motivo da exclusão: requer cartão de crédito; limitado a 12 meses; interface complexa para novos desenvolvedores
+
+
+## Serviços Online
+Esta sesão contém **SaaS**, **PaaS** e **IaaS** que, embora não tenham uma
+interface administrativa de aplicativo nativo Android nem que possam ser
+configuradas no dia a dia sem estar conectado a internet, **não requerem
+cartão de crédito**, tem opção para uso gratuito com limitações aceitáveis e
+permitem publicar aplicações online relativamente avançadas, ainda que com
+auxílio de guias de apoio.
+
+<!--
+Note: você pode usar um smartphone para acessar essas interfaces
+administrativas, porém talvez uma boa estratégia seria:
+
+1. Baixar documentação e guias de como usar  celular ou mesmo imprimir em
+  papel.
+
+-->
+
+<!--
+_TODO: justificar melhor esta sessão de 'Serviços Online' (fititnt, 2019-03-03 07:03 BRT)_
+-->
+
+### Chatbot
+
+_TODO: descrever um pouco mais sobre o Chatbot (fititnt, 2019-03-03 07:03 BRT)_
+
+Veja também:
+- [DialogFlow](#dialogflow)
+
+#### ChatFuel
+- Site: <https://chatfuel.com> <sup>inglês</sup>
+- Pontos chave:
+  - Interface muito amigável para quem não é desenvolvedor avançado
+- Limitações da versão gratuita:
+  - Máximo 1.000 _usuários ativos_
+  - Suporte apenas para o Facebook Messager
+  - Exibe para usuário final que foi feito usando ChatFuel
+
+_TODO: descrever um pouco mais sobre o DialogFlow (fititnt, 2019-03-03 07:52 BRT)_
+
+### Inteligência Artificial
+
+_TODO: descrever melhor que por 'Inteligência Artificial' quer dizer plataformas complexas que permitem mesclar diferentes ferramentas. (fititnt, 2019-03-03 08:00 BRT)_
+
+#### DialogFlow
+- Site: <https://dialogflow.com> <sup>inglês</sup>
+- Pontos chave:
+  - Serve para mesclar diferentes ferramentas e fazer _agentes inteligentes_
+  - A maioria dos agentes inteligentes criados tende a não passar quota gratuita oferecida
+  - Integração com:
+    - Versão Web
+    - Facebook Messager
+    - Slack
+    - Viber
+    - Twitter
+    - Twillo
+    - Skype
+    - Telegram
+    - Kik
+    - LINE
+    - Cisco Spark
+    - Amazon Alexa
+    - Microsoft Cortana
+- Limitações:
+  - Pode exibir conhecimento prévio significativo, em especial se você não
+    estiver seguindo um tutorial passo a passo.
+
+_TODO: descrever melhor o DialogFlow (fititnt, 2019-03-03 07:52 BRT)_
 
 # Contribua
 Para enviar sugestões, atualizações, correções e críticas, você pode:

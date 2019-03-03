@@ -1,14 +1,18 @@
 # Recursos para pessoas desenvolvedoras de periferia
 
+[![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://periferia.etica.ai/)
+
+[![Comunidades](imagens/badges/grupos-total.svg)](#organizations) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades)
+
 ---
 
 <!-- TOC depthFrom:2 depthTo:4 -->
 
 - [Comunidades](#comunidades)
-        - [Desenvolvimento Web](#desenvolvimento-web)
-        - [Etica.AI](#eticaai)
+    - [Desenvolvimento Web](#desenvolvimento-web)
+    - [Etica.AI](#eticaai)
 - [Gratuidades](#gratuidades)
-    - [Domínio de top](#domínio-de-top)
+    - [Domínio de topo](#domínio-de-topo)
         - [Freenom](#freenom)
 
 <!-- /TOC -->
@@ -18,18 +22,22 @@
 # Recursos
 
 ## Comunidades
+> Esta sessão de **comunidades** área é fornecido uma lista de fórums online as
+pessoas moderadoras e outros membros tenderão a ser amigáveis pessoas
+desenvolvedoras que potencialmente enfrentam desafios aos quais esse repositório
+completo procura resolver.
 
 _TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
 
-#### Desenvolvimento Web
+### Desenvolvimento Web
 - Grupo de Facebook: <https://www.facebook.com/groups/desenvolvimentoweb/>
 
-#### Etica.AI
+### Etica.AI
 - Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831/>
 
 ## Gratuidades
 
-### Domínio de top
+### Domínio de topo
 > _O domínio de topo (sigla: TLD, do inglês top-level domain), ou domínio de
 nível superior, é um dos componentes dos endereços de Internet. Cada nome de
 domínio na Internet consiste de alguns nomes separados por pontos, e o último

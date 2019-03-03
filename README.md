@@ -2,7 +2,7 @@
 
 [![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://periferia.etica.ai/)
 
-[![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades)
+[![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone)
 
 ---
 
@@ -11,6 +11,9 @@
 - [Comunidades](#comunidades)
     - [Desenvolvimento Web](#desenvolvimento-web)
     - [Etica.AI](#eticaai)
+- [Desenvolvimento em smartphone](#desenvolvimento-em-smartphone)
+    - [IDEs em Android](#ides-em-android)
+        - [Python](#python)
 - [Gratuidades](#gratuidades)
     - [Domínio de topo](#domínio-de-topo)
         - [Freenom](#freenom)
@@ -38,6 +41,19 @@ _TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
 
 ### Etica.AI
 - Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831>
+
+## Desenvolvimento em smartphone
+
+### IDEs em Android
+
+#### Python
+
+##### QPython
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=org.qpython.qpy>**
+  - Tamanho: **22MB** (verificado em 2019-03-03)
+- Requisito mínimos:
+  - Versão do Android: **4.0+**
 
 ## Gratuidades
 Está área contem recursos 100% gratúitos sem categorização mais específicas e
@@ -74,14 +90,31 @@ ignorada)._ — **Veja [Domínio de topo na Wikipédia](https://pt.wikipedia.org
   - **.ML** (gentilmente fornecido pela República do Mali)
   - **.TK** (gentilmente fornecido por Toquelau)
 - Tempo de registro gratuito: **12 meses** (As renovações são gratuitas e _ilimitadas_)
-- Limitações: [Veja termos de uso <sup>link em inglês</sup>](https://www.freenom.com/pt/termsandconditions.html)
+- Limitações:
+  - Informações completas: [Veja termos de uso <sup>link em inglês</sup>](https://www.freenom.com/pt/termsandconditions.html)
   - Cada domínio tem condições específicas que se aplicam a um número muito
-    pequeno de sites. Por exemplo o uso gratuito **não permite**:
-    - **Racismo e insultos** (não crie para falar mal de pessoas ou organizações)
-    - **Conteúdo erotico** (não use para divulgar pornografia, mesmo que esteja de acordo com leis)
-    - **Drogas** (não divulgue drogas legais e ilegais. Isso inclui até mesmo cigarro e alcool)
+    pequeno de sites. Por exemplo o **uso gratuito não permite**:
+    - **Racismo** (note que além de raça, não pode também incitar ações contra homossexuais, entre outros)
+    - **Insultos** (não pode usar para insultar religiões ou outras culturas e outras ofensas pesadas contra pessoas, grupos e instituições)
+       - Nota: O domínio `.tk` não restringe explicitamente _insultos_ como categoria separada de _racismo_ (verificado em Março de 2019)
+    - **Conteúdo erotico** (não use para divulgar pornografia explícita, mesmo que esteja de acordo com leis)
+    - **Drogas** (não divulgue drogas legais e ilegais. Isso inclui até mesmo cigarro de tabaco e alcool)
     - **Jogos de azar** (não pode cassino, bingo, apostas de dinheiro)
       - Nota: jogos que não envolvem apostas de dinheiro real são permitidos
+    - **Armas e terrorismo** (não use para divulgar venda ou informações sobre armas e/ou terrorismo)
+    - **Virus, spyware, ferramentas para usar internet de graça**
+    - **Reservar mas não usar o domínio**
+- O que não é explicitamente limitado, logo, parece não ser motivo para impedir que use os domínios gratuitos:
+  - **Critica construtivas**
+    - Exemplo: é possível criticar corrupção de governante (porém pode fazer
+      sentido não usar um domínio gratuito do mesmo governo ao qual vai criticar)
+    - Note: ainda assim não é permitido incitar racismo/violência/terrorismo
+  - **Pirataria**
+    - Os termos de uso nem mesmo citam termos termos relacionado a pirataria
+      para encerrar seu uso de domínios gratuitos (porém se usar
+      [Hospedagem de site](#hospedagem-de-site) e reclamarem com eles, sua
+      conta pode ser trancada até resolver o problema)
+    - Note: ainda assim não conteúdo pirateado não pode conter virus, spyware e afins.
 
 <!--
 A Freenom intermedia o registro de entidades que, em troca de divulgação

@@ -6,14 +6,20 @@
 
 ---
 
-<!-- TOC depthFrom:2 depthTo:4 -->
+<!-- TOC depthFrom:2 depthTo:5 -->
 
 - [Comunidades](#comunidades)
     - [Desenvolvimento Web](#desenvolvimento-web)
     - [Etica.AI](#eticaai)
 - [Desenvolvimento em smartphone](#desenvolvimento-em-smartphone)
+    - [Empacotador](#empacotador)
+        - [Empacotar Apps Android](#empacotar-apps-android)
+            - [APK Builder](#apk-builder)
     - [IDEs em Android](#ides-em-android)
+        - [JavaScript](#javascript)
+            - [DroidScript](#droidscript)
         - [Python](#python)
+            - [QPython](#qpython)
 - [Gratuidades](#gratuidades)
     - [Domínio de topo](#domínio-de-topo)
         - [Freenom](#freenom)
@@ -44,7 +50,34 @@ _TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
 
 ## Desenvolvimento em smartphone
 
+### Empacotador
+
+#### Empacotar Apps Android
+> Use sistema operacional Android para criar aplicativos para o sistema
+operacional Android.
+
+##### APK Builder
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.gmail.heagoo.apkbuilder>**
+  - Tamanho: **16MB** (verificado em 2019-03-03)
+- Requisito mínimos:
+  - Versão do Android: **4.0+**
+
 ### IDEs em Android
+
+#### JavaScript
+
+##### DroidScript
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.smartphoneremote.androidscriptfree>**
+  - Tamanho: **9,9MB** (verificado em 2019-03-03)
+- Requisito mínimos:
+  - Versão do Android: **4.1+**
+- Links do desenvolvedor:
+  - Site Oficial: <http://droidscript.org> <sup>destino em inglês</sup>
+  - Tutoriais Oficiais: <http://androidscript.org/droidscript/tutorials> <sup>destino em inglês</sup>
+  - Forum de Suporte: <https://groups.google.com/forum/#!forum/androidscript> <sup>destino em inglês</sup>
+
 
 #### Python
 
@@ -127,7 +160,7 @@ https://www.espacoblog.com/como-registrar-dominio-gratis-na-freenom.html
 sistemas online a guardar páginas, arquivos, informações, imagens, vídeo, ou
 qualquer conteúdo acessível por Web. Provedores de Hospedagem de Sites
 tipicamente são empresas que fornecem um espaço em seus servidores e conexão à
-internet a estes dados aos seus clientes._ — **Veja [Hospedagem de sítios web na Wikiédia](https://pt.wikipedia.org/wiki/Hospedagem_de_s%C3%ADtios_web)**.
+internet a estes dados aos seus clientes._ — **Veja [Hospedagem de sítios web na Wikipédia](https://pt.wikipedia.org/wiki/Hospedagem_de_s%C3%ADtios_web)**.
 
 > _**Hospedagem grátis** é um tipo de serviço gratuito de hospedagem de sites
 da internet. São também funcionais, entretanto, extremamente limitados quando

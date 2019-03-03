@@ -8,7 +8,7 @@
 
 python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
 python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg
-python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='1' --right-color='#FF773D' > smartphone-total.svg
+python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='3' --right-color='#FF773D' > smartphone-total.svg
 #python -m pybadges --left-text='Africa' --right-text='1' --right-color='#1E90FF' > orgs-africa.svg
 #python -m pybadges --left-text='Asia' --right-text='2' --right-color='#1E90FF' > orgs-asia.svg
 #python -m pybadges --left-text='Europe' --right-text='4' --right-color='#1E90FF' > orgs-europe.svg

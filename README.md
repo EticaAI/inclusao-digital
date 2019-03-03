@@ -164,3 +164,11 @@ Para enviar sugestões, atualizações, correções e críticas, você pode:
 - Via o GitHub (público): <https://github.com/fititnt/recursos-desenvolvimento-periferia>
   - Saiba como: [Levantar um ponto de discussão <sup>link em inglês</sup>](https://help.github.com/articles/creating-an-issue/)
   - Saiba como: [Sugerir alteração do código fonte <sup>link em inglês</sup>](https://help.github.com/articles/about-pull-requests/)
+
+# Licença
+
+[![Domínio Público](imagens/dominio-publico.png)](UNLICENSE)
+
+Na medida do possível segundo a lei, [Emerson Rocha](https://github.com/fititnt)
+renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este
+trabalho para o [Domínio Público](UNLICENSE).

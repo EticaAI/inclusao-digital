@@ -4,6 +4,15 @@
 
 [![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Serviços Online](imagens/badges/servicos-online-total.svg)](#serviços-online)
 
+<!--
+Frases do banner:
+- Inflación de mi país es 1.698.844,2%
+- Ainda não tem computador
+- Acessa internet via 3G
+- Não tem cartão de crédito
+- É jovem e pai/mãe não dá dinheiro
+-->
+
 ---
 
 <!-- TOC depthFrom:2 depthTo:5 -->
@@ -11,6 +20,8 @@
 - [Comunidades](#comunidades)
     - [Desenvolvimento Web](#desenvolvimento-web)
     - [Etica.AI](#eticaai)
+- [Desenvolvimento em computador](#desenvolvimento-em-computador)
+    - [Aceita-se sugestões](#aceita-se-sugestões)
 - [Desenvolvimento em smartphone](#desenvolvimento-em-smartphone)
     - [Empacotador](#empacotador)
         - [Empacotar Apps Android](#empacotar-apps-android)
@@ -20,6 +31,8 @@
             - [DroidScript](#droidscript)
         - [Python](#python)
             - [QPython](#qpython)
+- [Desenvolvimento em Linux](#desenvolvimento-em-linux)
+- [Desenvolvimento em Windows](#desenvolvimento-em-windows)
 - [Gratuidades](#gratuidades)
     - [Domínio de topo](#domínio-de-topo)
         - [Freenom](#freenom)
@@ -45,13 +58,33 @@ pessoas moderadoras e outros membros tenderão a ser amigáveis pessoas
 desenvolvedoras que potencialmente enfrentam desafios aos quais esse repositório
 completo procura resolver.
 
-_TODO: considerar converter para formato tabela (fititnt, 2019-03-02 08:19 BRT)_
-
 ### Desenvolvimento Web
 - Grupo de Facebook: <https://www.facebook.com/groups/desenvolvimentoweb>
 
 ### Etica.AI
 - Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831>
+
+## Desenvolvimento em computador
+Por questão de foco, este repositório de referências não conterá dicas de quais
+ferramentas usar no sistema operacional Linux, Windows e macOS. Muito
+provavelmente o que você procura já existe em outros lugares. Não é dificil
+encontrar _"IDEs gratuitas para Nome-do-sistema-operacional"_, por exemplo.
+Agora tente procurar no seu sistema de busca preferido como usar celular para
+como plataforma de desenvolvimento. Muito provavelmente vai receber sugestão
+de que você não realmente quer isso, e guias de [Desenvolvimento em smartphone](#desenvolvimento-em-smartphone) provavelmente não serão exibidos.
+
+_TODO: melhorar descrição inicial de 'Desenvolvimento em computador' (fititnt, 2019-03-03 09:31 BRT)_
+
+<!--
+https://techweez.com/2017/09/08/africa-most-common-smartphones/
+-->
+
+### Aceita-se sugestões
+
+Porém, caso você tenha referênias de como uma pessoa que tenha um **computador
+com configuração de hardware limitada** e/ou que **use computador através de
+conecção de internet cara, como via 3G**, [suas sugestões de colaboração
+especialmente são bem vindas](#contribua).
 
 ## Desenvolvimento em smartphone
 Lista de recursos com **versão gratuita plenamente funcional** e que permite
@@ -97,6 +130,14 @@ internet após o download inicial dos aplicativos.
   - Tamanho: **22MB** (verificado em 2019-03-03)
 - Requisito mínimos:
   - Versão do Android: **4.0+**
+
+## Desenvolvimento em Linux
+
+Vá para [Desenvolvimento em computador](#desenvolvimento-em-computador).
+
+## Desenvolvimento em Windows
+
+Vá para [Desenvolvimento em computador](#desenvolvimento-em-computador).
 
 ## Gratuidades
 Está área contem recursos 100% gratúitos sem categorização mais específicas e
@@ -208,14 +249,26 @@ cartão de crédito**, tem opção para uso gratuito com limitações aceitávei
 permitem publicar aplicações online relativamente avançadas, ainda que com
 auxílio de guias de apoio.
 
-<!--
-Note: você pode usar um smartphone para acessar essas interfaces
-administrativas, porém talvez uma boa estratégia seria:
+Depois de configuradas, **elas poderão atender usuários finais mesmo que você
+não possa responder imediatamente**.
 
-1. Baixar documentação e guias de como usar  celular ou mesmo imprimir em
-  papel.
+**Super dica profissional**: você pode usar um smartphone para acessar essas
+interfaces administrativas, porém caso não tenha um computador com tela grande
+ou sua internet tenha custo alto, talvez uma boa estratégia seria:
 
--->
+1. Baixar documentação e imprimir em papel ou salvar para visualisar com seu
+  celular
+2. Use papel e caneta ou lápis, para planejar o que quer fazer.
+    - Note: mesmo desenvolvedores profissionais usam papel (ou tablets) para
+    rascunhar ideias. Guarde com carinho seus rascunhos, mesmo que não os use
+    imediatamente.
+3. Vá até um lugar que tenha tenha internet liberada e um computador com tela
+  maior (por exemplo, um computador de amigo, computador compartilhado de
+  laboratório de informática de escola ou biblioteca, um ciber café...) e use
+  o tempo para testar o que planejou.
+4. Veja os resultados. Se necessário salve documentação adicional e volte ao
+  passo 1.
+
 
 <!--
 _TODO: justificar melhor esta sessão de 'Serviços Online' (fititnt, 2019-03-03 07:03 BRT)_
@@ -231,13 +284,11 @@ Veja também:
 #### ChatFuel
 - Site: <https://chatfuel.com> <sup>inglês</sup>
 - Pontos chave:
-  - Interface muito amigável para quem não é desenvolvedor avançado
+  - Interface muito amigável para quem não é desenvolvedor avançado (não requer saber linguagem de programações como Python, Java, etc)
 - Limitações da versão gratuita:
   - Máximo 1.000 _usuários ativos_
   - Suporte apenas para o Facebook Messager
   - Exibe para usuário final que foi feito usando ChatFuel
-
-_TODO: descrever um pouco mais sobre o DialogFlow (fititnt, 2019-03-03 07:52 BRT)_
 
 ### Inteligência Artificial
 

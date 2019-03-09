@@ -32,7 +32,9 @@ Frases do banner:
         - [Python](#python)
             - [QPython](#qpython)
 - [Desenvolvimento em Linux](#desenvolvimento-em-linux)
+    - [Linux otimizado para baixo uso de internet](#linux-otimizado-para-baixo-uso-de-internet)
 - [Desenvolvimento em Windows](#desenvolvimento-em-windows)
+    - [Windows otimizado para baixo uso de internet](#windows-otimizado-para-baixo-uso-de-internet)
 - [Gratuidades](#gratuidades)
     - [Domínio de topo](#domínio-de-topo)
         - [Freenom](#freenom)
@@ -75,13 +77,15 @@ de que você não realmente quer isso, e guias de [Desenvolvimento em smartphone
 
 _TODO: melhorar descrição inicial de 'Desenvolvimento em computador' (fititnt, 2019-03-03 09:31 BRT)_
 
+_TODO: rescrever 'Desenvolvimento em computador'; além de smartphone, também será dada atenção a quem usa computador com no máximo 2GB de RAM (fititnt, 2019-03-09 05:00 BRT)_
+
 <!--
 https://techweez.com/2017/09/08/africa-most-common-smartphones/
 -->
 
 ### Aceita-se sugestões
 
-Porém, caso você tenha referênias de como uma pessoa que tenha um **computador
+Porém, caso você tenha referências de como uma pessoa que tenha um **computador
 com configuração de hardware limitada** e/ou que **use computador através de
 conecção de internet cara, como via 3G**, [suas sugestões de colaboração
 especialmente são bem vindas](#contribua).
@@ -133,11 +137,33 @@ internet após o download inicial dos aplicativos.
 
 ## Desenvolvimento em Linux
 
-Vá para [Desenvolvimento em computador](#desenvolvimento-em-computador).
+> **Nota: veja também recomendações genéricas na sessão [Desenvolvimento em computador](#desenvolvimento-em-computador).**
+
+<!--
+https://itsfoss.com/lightweight-linux-beginners/
+https://fossbytes.com/best-lightweight-linux-distros/
+https://www.hardware.com.br/comunidade/melhor-distro/1473421/
+-->
+
+### Linux otimizado para baixo uso de internet
+
+_TODO: informações mínimas sobre Linux otimizado para baixo uso de internet (fititnt, 2019-03-09 04:42 BRT)_
+
 
 ## Desenvolvimento em Windows
 
-Vá para [Desenvolvimento em computador](#desenvolvimento-em-computador).
+> **Nota: veja também recomendações genéricas na sessão [Desenvolvimento em computador](#desenvolvimento-em-computador).**
+
+### Windows otimizado para baixo uso de internet
+
+_TODO: informações mínimas sobre Windows otimizado para baixo uso de internet (fititnt, 2019-03-09 04:42 BRT)_
+
+<!--
+https://www.tecmundo.com.br/windows-10/88024-windows-10-ativar-modo-conexao-limitada-economizar-dados-moveis.htm
+https://www.thewindowsclub.com/conserve-3g-lte-data-windows-10
+https://www.thewindowsclub.com/set-metered-connection-in-windows-10
+https://www.cnet.com/news/why-you-shouldnt-buy-a-5g-phone-right-now/
+-->
 
 ## Gratuidades
 Está área contem recursos 100% gratúitos sem categorização mais específicas e

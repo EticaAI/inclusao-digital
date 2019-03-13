@@ -8,14 +8,23 @@ Tradudores podem ignorar este documento completamente.
 
 > Assista o vídeo [Como criar Personas? // UXNOW](https://www.youtube.com/watch?v=q_NrzJBS7QI)
 
+
+## Lista
+
+**Aviso: esta página está incompleta. Volte mais tarde (fititnt, 2019-03-13 00:37 BRT)**
+
+---
+
 <!-- TOC depthFrom:3 depthTo:3 -->
 
-- [Sebastian](#sebastian)
-- [Nataniela](#nataniela)
-- [Valentina](#valentina)
-- [Miguel](#miguel)
+- [Sebastian, o refugiado nômade que quer acelerar derrubada do governo de seu país de origem](#sebastian-o-refugiado-nômade-que-quer-acelerar-derrubada-do-governo-de-seu-país-de-origem)
+- [Nataniela, a co-fundadora de um PyLadies local na Africa com uso de smartphones e internet do Free Basics](#nataniela-a-co-fundadora-de-um-pyladies-local-na-africa-com-uso-de-smartphones-e-internet-do-free-basics)
+- [Miguel, pessoa em situação de rua na cidade mais rica da América Latina](#miguel-pessoa-em-situação-de-rua-na-cidade-mais-rica-da-américa-latina)
+- [Valentina, e o uso de Macbook muito antigo até conseguir solucionar notebook que foi roubado](#valentina-e-o-uso-de-macbook-muito-antigo-até-conseguir-solucionar-notebook-que-foi-roubado)
 
 <!-- /TOC -->
+
+---
 
 <!--
 - https://mindminers.com/marketing/confira-um-modelo-de-personas-3-exemplos-praticos-para-se-inspirar
@@ -27,75 +36,109 @@ Tradudores podem ignorar este documento completamente.
 Nota: pode-se usar fotos do <https://thispersondoesnotexist.com/>
 -->
 
-
-## Lista
-
-### Sebastian
-> **Refugiado**
+### Sebastian, o refugiado nômade que quer acelerar derrubada do governo de seu país de origem
 
 <img src="https://thispersondoesnotexist.com/image?a" width="200"/>
 
 - **Nome**: Sebastian
-- **Idade**: (número)
-- **Gênero**: (masculino, feminino, não informado)
+- **Idade**: 46
+- **Gênero**: Masculino
 - **Naturalidade**: Caracas, Venezuela, América do Sul
+- **Cidade atual**: Porto Alegre, Brasil, América do Sul
 - **Localização geográfica**:  (rural, urbano, suburbano)
 
-#### Desafios de Sebastian
+#### Como Sebastian acessa internet
+_TODO: descrever minimamente como é feito acesso a internet_
+
+#### Com qual hardware Sebastian é desenvolvedor neste momento
+
+_TODO: descrever minimamente o(s) computadores, notebook(s) e/ou smartphone(s) usados pela pessoa_
+
+#### Outros desafios de Sebastian
 _TODO: listar desafios_
 
 #### Recursos adicionais
 
 - <https://medium.com/@xsharma/refugees-and-asylum-seekers-what-design-can-do-799e63130183>
 
-### Nataniela
+### Nataniela, a co-fundadora de um PyLadies local na Africa com uso de smartphones e internet do Free Basics
 
 <!--
 Nome escolhido via essa URL aqui http://www.significado-nomes-bebes.com/c/Top%20100%20de%20nomes%20populares%20em%20Angola
 -->
 
-> **Integrante de grupo PyLadies suburbana de Angola, Africa**
-
 <img src="https://thispersondoesnotexist.com/image?b" width="200"/>
 
 - **Nome**: Nataniela
-- **Idade**: (número)
-- **Gênero**: (masculino, feminino, não informado)
+- **Idade**: 19
+- **Gênero**: Feminino
 - **Naturalidade**: Lobito, Angola, Africa
-- **Localização geográfica**:  (rural, urbano, suburbano)
+- **Cidade atual**: Lobito, Angola, Africa
 
-#### Desafios de Nataniela
+<!--
+- **Localização geográfica**:  (rural, urbano, suburbano)
+-->
+#### Como o grupo co-organizado por Nataniela acessa internet
+_TODO: descrever minimamente como é feito acesso a internet_
+
+#### Com qual hardware o grupo co-organizado por Nataniela poderia aprender programação
+
+_TODO: descrever minimamente o(s) computadores, notebook(s) e/ou smartphone(s) usados pela pessoa_
+
+#### Outros desafios de Nataniela
 _TODO: listar desafios_
 
-### Valentina
+### Miguel, pessoa em situação de rua na cidade mais rica da América Latina
 
-> **O notebook principal de Valentina quebrou, e está usando um Macbook pro 2010 por duas semanas**
-
-<img src="https://thispersondoesnotexist.com/image?c" width="200"/>
-
-- **Nome**: 
-- **Idade**: (número)
-- **Gênero**: (masculino, feminino, não informado)
-- **Naturalidade**: 
-- **Localização geográfica**:  (rural, urbano, suburbano)
-
-#### Desafios de Valentina
-_TODO: listar desafios_
-
-### Miguel
-
+<!--
 > **Pessoa em situação de rua que não se sente a vontade de admitir desafios extras em grupos de Facebook**
+-->
+
 
 <img src="https://thispersondoesnotexist.com/image?d" width="200"/>
 
-- **Nome**: 
-- **Idade**: (número)
-- **Gênero**: (masculino, feminino, não informado)
-- **Naturalidade**: 
-- **Localização geográfica**:  (rural, urbano, suburbano)
+- **Nome**: Miguel
+- **Idade**: 24
+- **Gênero**: Masculino
+- **Naturalidade**:
 
-#### Desafios de Miguel
+#### Como Miguel acessa internet
+_TODO: descrever minimamente como é feito acesso a internet_
+
+#### Com qual hardware Miguel é desenvolvedor neste momento
+
+_TODO: descrever minimamente o(s) computadores, notebook(s) e/ou smartphone(s) usados pela pessoa_
+
+#### Outros desafios de Miguel
 _TODO: listar desafios_
+
+### Valentina, e o uso de Macbook muito antigo até conseguir solucionar notebook que foi roubado
+
+<!--
+> **O notebook principal de Valentina foi roubado, e está usando um Macbook pro 2010 por duas semanas**
+
+Talvez escolher um cenário onde Valentina na verdade teve uma enxente
+
+-->
+
+<img src="https://thispersondoesnotexist.com/image?c" width="200"/>
+
+- **Nome**: Valentina
+- **Idade**: 24
+- **Gênero**: Feminino
+- **Naturalidade**: Santa Cruz do Capibaribe, Brasil, América do Sul
+- **Cidade atual**: Rondonópolis, Brasil, América do Sul
+
+#### Como Valentina acessa internet
+_TODO: descrever minimamente como é feito acesso a internet_
+
+#### Com qual hardware Valentina é desenvolvedora neste momento
+
+_TODO: descrever minimamente o(s) computadores, notebook(s) e/ou smartphone(s) usados pela pessoa_
+
+#### Outros desafios de Valentina
+_TODO: listar desafios_
+
 
 ## Recursos usados
 

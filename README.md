@@ -33,6 +33,8 @@ Frases do banner:
             - [QLua](#qlua)
         - [Python](#python)
             - [QPython](#qpython)
+        - [Terminal para Android](#terminal-para-android)
+            - [Termux](#termux)
 - [Desenvolvimento em Linux](#desenvolvimento-em-linux)
     - [Linux otimizado para baixo uso de internet](#linux-otimizado-para-baixo-uso-de-internet)
 - [Desenvolvimento em Windows](#desenvolvimento-em-windows)
@@ -144,6 +146,15 @@ internet após o download inicial dos aplicativos.
   - Tamanho: **22MB** (verificado em 2019-03-03)
 - Requisito mínimos:
   - Versão do Android: **4.0+**
+
+#### Terminal para Android
+
+##### Termux
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.termux>**
+  - Tamanho: **215kb** + pacotes (verificado em 2019-03-16)
+- Requisito mínimos:
+  - Versão do Android: **5.0+**
 
 ## Desenvolvimento em Linux
 

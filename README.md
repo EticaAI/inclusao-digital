@@ -29,6 +29,8 @@ Frases do banner:
     - [IDEs em Android](#ides-em-android)
         - [JavaScript](#javascript)
             - [DroidScript](#droidscript)
+        - [Lua](#lua)
+            - [QLua](#qlua)
         - [Python](#python)
             - [QPython](#qpython)
 - [Desenvolvimento em Linux](#desenvolvimento-em-linux)
@@ -125,6 +127,14 @@ internet após o download inicial dos aplicativos.
   - Tutoriais Oficiais: <http://androidscript.org/droidscript/tutorials> <sup>destino em inglês</sup>
   - Forum de Suporte: <https://groups.google.com/forum/#!forum/androidscript> <sup>destino em inglês</sup>
 
+#### Lua
+
+##### QLua
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.quseit.qlua5pro2>**
+  - Tamanho: **4,2MB**
+- Requisito mínimos:
+  - Versão do Android: **2.3+**
 
 #### Python
 

@@ -367,13 +367,8 @@ _TODO: descrever melhor que por 'Inteligência Artificial' quer dizer plataforma
 _TODO: descrever melhor o DialogFlow (fititnt, 2019-03-03 07:52 BRT)_
 
 # Contribua
-Para enviar sugestões, atualizações, correções e críticas, você pode:
 
-- Via e-mail:
-  - Com o mantenedor principal: Emerson Rocha <rocha@ieee.org>.
-- Via o GitHub (público): <https://github.com/fititnt/recursos-desenvolvimento-periferia>
-  - Saiba como: [Levantar um ponto de discussão <sup>link em inglês</sup>](https://help.github.com/articles/creating-an-issue/)
-  - Saiba como: [Sugerir alteração do código fonte <sup>link em inglês</sup>](https://help.github.com/articles/about-pull-requests/)
+Veja [Diretrizes de Contribuição](CONTRIBUTING.md).
 
 # Licença
 

@@ -1,8 +1,12 @@
 # Recursos para pessoas desenvolvedoras de periferia
 
-[![Banner: Organizations related to Ethics of Autonomous and Intelligent Systems (A/IS)](imagens/banner.png)](https://periferia.etica.ai/)
+[![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://periferia.etica.ai/)
 
+
+<!--
 [![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Serviços Online](imagens/badges/servicos-online-total.svg)](#serviços-online)
+
+-->
 
 <!--
 Frases do banner:
@@ -25,13 +29,19 @@ Frases do banner:
     - [Apoie os demais](#apoie-os-demais)
 - [Seu sistema operacional](#seu-sistema-operacional)
     - [Desenvolvedor em smartphone Android](#desenvolvedor-em-smartphone-android)
+        - [Empacotar Aplicativos Android em Android](#empacotar-aplicativos-android-em-android)
+        - [IDEs para programar usando Android](#ides-para-programar-usando-android)
+        - [Terminal para Android](#terminal-para-android)
     - [Desenvolvedor em Linux](#desenvolvedor-em-linux)
+        - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](#linux-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em Windows](#desenvolvedor-em-windows)
+        - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em MacOS](#desenvolvedor-em-macos)
+        - [Hackintosh Barato (Ajude-nos!)](#hackintosh-barato-ajude-nos)
 - [Seu hardware](#seu-hardware)
     - [Computador pessoal](#computador-pessoal)
     - [Computador de placa única](#computador-de-placa-única)
-- [Sua acesso a internet](#sua-acesso-a-internet)
+- [Seu acesso a internet](#seu-acesso-a-internet)
     - [Uso de internet mobile](#uso-de-internet-mobile)
     - [Trabalhar offline](#trabalhar-offline)
 - [Serviços](#serviços)
@@ -83,20 +93,39 @@ Nesta área você é inspirado a:
 
 ## Seu sistema operacional
 
-Independente do [hardware](#hardware), você como pessoa desenvolvedora usará
-pelo menos um dos sistemas operacionais a seguir.
+Independente do [seu hardware](#seu-hardware), você como pessoa desenvolvedora
+usará pelo menos um dos sistemas operacionais a seguir.
+
+Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
+uma forte tendência a priorizar conteúdo hardware com maiores limitações, como
+o desenvolver usando smartphone Android em internet 3G.
 
 ### Desenvolvedor em smartphone Android
+<!--
 - [Desenvolvedor em smartphone Android](android/README.md)
+-->
+
+#### Empacotar Aplicativos Android em Android
+- [Empacotar Aplicativos Android em Android](android/README.md#empacotar-aplicativos-android-em-android)
+
+#### IDEs para programar usando Android
+- [IDEs para programar usando Android](android/README.md#ides-para-programar-usando-android)
+
+#### Terminal para Android
+- [Terminal para Android](android/README.md#terminal-para-android)
 
 ### Desenvolvedor em Linux
-- [Desenvolvedor em Linux](linux/README.md)
+
+#### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
+- [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](linux/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 
 ### Desenvolvedor em Windows
-- [Desenvolvedor em Windows](windows/README.md)
+#### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
+- [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](windows/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 
 ### Desenvolvedor em MacOS
-- [Desenvolvedor em MacOS](windows/README.md)
+#### Hackintosh Barato (Ajude-nos!)
+- [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
 
 ## Seu hardware
 ### Computador pessoal
@@ -105,7 +134,7 @@ pelo menos um dos sistemas operacionais a seguir.
 ### Computador de placa única
 - [Computador de placa única](sbc/README.md)
 
-## Sua acesso a internet
+## Seu acesso a internet
 > Estratégias para mitigar uso limitador de acesso a internet
 
 ### Uso de internet mobile

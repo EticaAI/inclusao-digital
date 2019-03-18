@@ -4,17 +4,17 @@
 
 - [Desenvolvimento em smartphone](#desenvolvimento-em-smartphone)
     - [Empacotador](#empacotador)
-        - [Empacotar Apps Android](#empacotar-apps-android)
+        - [Empacotar Aplicativos Android em Android](#empacotar-aplicativos-android-em-android)
             - [APK Builder](#apk-builder)
-    - [IDEs em Android](#ides-em-android)
+    - [IDEs para programar usando Android](#ides-para-programar-usando-android)
         - [JavaScript](#javascript)
             - [DroidScript](#droidscript)
         - [Lua](#lua)
             - [QLua](#qlua)
         - [Python](#python)
             - [QPython](#qpython)
-        - [Terminal para Android](#terminal-para-android)
-            - [Termux](#termux)
+    - [Terminal para Android](#terminal-para-android)
+        - [Termux](#termux)
 
 <!-- /TOC -->
 
@@ -26,7 +26,7 @@ internet**.
 
 ### Empacotador
 
-#### Empacotar Apps Android
+#### Empacotar Aplicativos Android em Android
 Use sistema operacional Android para **criar aplicativos para o sistema
 operacional Android sem necesidade de ter um computador** ou conecção com a
 internet após o download inicial dos aplicativos.
@@ -38,7 +38,7 @@ internet após o download inicial dos aplicativos.
 - Requisito mínimos:
   - Versão do Android: **4.0+**
 
-### IDEs em Android
+### IDEs para programar usando Android
 
 #### JavaScript
 
@@ -71,9 +71,9 @@ internet após o download inicial dos aplicativos.
 - Requisito mínimos:
   - Versão do Android: **4.0+**
 
-#### Terminal para Android
+### Terminal para Android
 
-##### Termux
+#### Termux
 - Download:
   - Google Play: **<https://play.google.com/store/apps/details?id=com.termux>**
   - Tamanho: **215kb** + pacotes (verificado em 2019-03-16)

@@ -96,7 +96,38 @@ pragmático, porém ainda assim criativos.
 
 ### Internacionalização para permitir Localização
 
-- <https://www.w3.org/International/questions/qa-i18n.pt-br>
-- <https://en.wikipedia.org/wiki/Internationalization_and_localization>
+> _"A internacionalização é a criação e o desenvolvimento de um produto, aplicação ou conteúdo de um documento que permite a localização fácil para públicos-alvo que variam em cultura, região ou idioma."_ — [Localização vs. Internacionalização da W3C](https://www.w3.org/International/questions/qa-i18n.pt-br)
 
-_TODO: adicionar conteúdo em Internacionalização para permitir Localização (fititnt, 2019-03917 19:42 BRT)_
+
+Independente de previamente existir pessoal externo com interesse de traduzir
+este projeto, desde o início haverá interesse extra não apenas em documentar
+potenciais estratégias que facilitem significativamente traduções e adaptações
+para outras regiões, como **potencialmente haverão limitações nas sugestões
+de conteúdo que poderiam ser aceitas no repositório principal**.
+
+Os principais impactos visíveis para quem irá sugerir conteúdo neste repositório
+são:
+
+1. Quantidades grandes de texto em um subtópico, muito além da média dos demais
+  conteúdos enviados poderá ser negada.
+    - Recomendado: converse antes sua intenção.
+    - Alternativa: publicar o conteúdo em local externo, com licença que permita
+      tradução, e incluir no repositório principal apenas as partes mais
+      importantes
+2. Links externos de guias/tutoriais para complementar o que é explicado devem
+   se encaixar pelo menos uma das seguintes opções:
+    - Ter uma licença que permita traduções
+    - Explicar algo que tradutores possivelmente encontrariam alternativa
+3. Pequenos pedaços de textos obtidos da Wikipedia são bem vindos
+    - Isto não só permite certa automação na geração de traduções, como
+      possívelmente os tradutores já terão parte do conteúdo em sua língua.
+    - Isto pode ser especialmente útil para explicações curtas de um subtópico
+
+
+---
+
+Se você é curador de conteúdo (a pessoa que aceita sugestões de outros; não
+uma pessoa nova que pretende sugerir algo) pode se interessar também nesses
+links:
+- <https://en.wikipedia.org/wiki/Internationalization_and_localization> <sup>Destino em inglês</sup>
+- <https://en.wikipedia.org/wiki/Language_localisation> <sup>Destino em inglês</sup>

@@ -2,12 +2,31 @@
 
 [![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://periferia.etica.ai/)
 
+[![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
+[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](CONTRIBUTING.md#internacionalização-para-permitir-localização)
+
+## Sobre o projeto
+**Este projeto é resultado de curadoria de conteúdo feita com zelo e carinho
+especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
+caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
+internet severamente limitados em relação ao comum em capitais tecnológicas.**
 
 <!--
+**O projeto _Recursos para pessoas desenvolvedoras de periferia_ é voltado para
+quem cria software e, ainda que momentaneamente, tenham que trabalhar usando
+hardware ou internet limitados em relação ao que é comum em capitais
+tecnológicas e e ainda assim manter uma boa produtividade.**
+
+Em poucas palavras, o objetivo desde projeto é ser uma lista de recomendações
+de recursos especialmente selecionada como potencial ótimo ponto de partida
+para o [público alvo](#público-alvo). Há preocupação adicional com
+[manutenabilidade para eventuais tradudores](#internacionalização-para-permitir-localização).
+
+As interações entre voluntários é regida pelo [Código de Conduta para Colaboradores](code-of-conduct.md).
+
 [![Comunidades](imagens/badges/grupos-total.svg)](#comunidades) [![Desenvolvimento em smartphone](imagens/badges/smartphone-total.svg)](#desenvolvimento-em-smartphone) [![Gratuidades](imagens/badges/gratuidades-total.svg)](#gratuidades) [![Serviços Online](imagens/badges/servicos-online-total.svg)](#serviços-online)
 
 -->
-
 <!--
 Frases do banner:
 - Inflación de mi país es 1.698.844,2%
@@ -23,6 +42,7 @@ Frases do banner:
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
+- [Sobre o projeto](#sobre-o-projeto)
 - [Socialização](#socialização)
     - [Seja apoiado](#seja-apoiado)
     - [Apoie a si próprio](#apoie-a-si-próprio)
@@ -138,10 +158,10 @@ o desenvolver usando smartphone Android em internet 3G.
 > Estratégias para mitigar uso limitador de acesso a internet
 
 ### Uso de internet mobile
-- [Conectividade na internet](network/README.md#)
+- [Conectividade na internet](network/README.md)
 
 ### Trabalhar offline
-- [Trabalhar offline](network/README.md#)
+- [Trabalhar offline](network/README.md)
 
 ## Serviços
 ### Gratuidades

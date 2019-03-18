@@ -6,6 +6,9 @@
 # Hint: to do a fast preview, replace '> filename.svg' with  '--browser', example:
 ## python -m pybadges --left-text='Label here' --right-text='Value here' --right-color='#26A65B' --browser
 
+python -m pybadges --left-text='Idioma' --right-text='Português' --right-color='#1E90FF' > language-portuguese.svg
+python -m pybadges --left-text='Idioma' --right-text='Traduções/localizações são bem vindas!' --right-color='#1E90FF' > language-new.svg
+
 python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
 python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg
 python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='5' --right-color='#FF773D' > smartphone-total.svg

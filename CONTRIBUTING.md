@@ -75,10 +75,10 @@ Os países acima [estão localizado em cinco continentes diferentes](https://pt.
 (África, América, Ásia, Europa e Oceania), o que implica que as contribuições
 neste projeto levem em consideração também a realidade de outros países.
 
-**Notem também que a opinão de um ou mais individuos não necessariamente
-representam a realidade de todo seu país, em especial se contradizem
+Notem também que **a opinão de um ou mais individuos não necessariamente
+representam a realidade de todo seu país**, em especial se contradizem
 estatísticas oficiais de acesso a internet e/ou quantidade de pessoas que
-hardware.**
+hardware.
 
 #### Exemplos de perfis que devem ser priorizados
 
@@ -86,13 +86,13 @@ O conteúdo aqui é projetado para *teoricamente* poder ser aproveitado até
 mesmo por uma [pessoa em situação de rua](https://pt.wikipedia.org/wiki/Sem-teto)
 que esteja aprendendo programação em um smartphone ou, um caso mais
 extraordinário, tal [pessoa seja refugiada](https://www.acnur.org/portugues/dados-sobre-refugio/perguntas-e-respostas/#refugiado)
-que até já tenha experiêcia com desenvolvimento de software mas saiba
-previamente como fazê-lo usando apenas smartphone/tablet/computador doado menos
+e que, mesmo já tendo alguma experiêcia com desenvolvimento de software,
+tenha de fazê-lo usando apenas smartphone/tablet/computador doado menos
 potente.
 
 Ainda que outros perfis possam ser adicionados no futuro, os dois acima servem
-como referencia para quem quer contribuir com conteúdo conseguir ser mais
-pragmático, porém ainda assim criativos.
+como referência para quem quer contribuir com conteúdo conseguir ser mais
+pragmático, porém ainda assim criativo.
 
 ### Internacionalização para permitir Localização
 

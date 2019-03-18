@@ -6,10 +6,13 @@
 [![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](CONTRIBUTING.md#internacionalização-para-permitir-localização)
 
 ## Sobre o projeto
+![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
 **Este projeto é resultado de curadoria de conteúdo feita com zelo e carinho
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
 caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
 internet severamente limitados em relação ao comum em capitais tecnológicas.**
+
+Saiba mais sobre nosso [público alvo](CONTRIBUTING.md#público-alvo).
 
 <!--
 **O projeto _Recursos para pessoas desenvolvedoras de periferia_ é voltado para
@@ -130,6 +133,13 @@ o desenvolver usando smartphone Android em internet 3G.
 
 #### IDEs para programar usando Android
 - [IDEs para programar usando Android](android/README.md#ides-para-programar-usando-android)
+
+Aqui você encontra IDEs (e editores de código) para **pelo menos** as seguintes
+linguagens de programação:
+
+- JavaScript
+- Lua
+- Python
 
 #### Terminal para Android
 - [Terminal para Android](android/README.md#terminal-para-android)

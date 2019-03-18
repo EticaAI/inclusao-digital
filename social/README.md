@@ -25,7 +25,7 @@
 ## Seja apoiado
 
 ### Comunidades online
-> Esta sessão de **comunidades** área é fornecido uma lista de fórums online as
+Esta sessão de **comunidades** área é fornecido uma lista de fórums online as
 pessoas moderadoras e outros membros tenderão a ser amigáveis pessoas
 desenvolvedoras que potencialmente enfrentam desafios aos quais esse repositório
 completo procura resolver.
@@ -37,6 +37,8 @@ completo procura resolver.
 - Grupo de Facebook: <https://www.facebook.com/groups/2074656096197831>
 
 ## Apoie a si próprio
+
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
 ### Recomendações mínimas sobre passar uma imagem profissional
 
@@ -60,6 +62,8 @@ consideração que LinkedIn pode não ser tão pertinente para todos os países
 ou conforme a motivação que a pessoa tem (fititnt, 2019-03-17 21:50 BRT)_
 
 ## Apoie os demais
+
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
 ### Apoie comunidades online
 

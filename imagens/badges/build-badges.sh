@@ -9,10 +9,12 @@
 python -m pybadges --left-text='Idioma' --right-text='Português' --right-color='#1E90FF' > language-portuguese.svg
 python -m pybadges --left-text='Idioma' --right-text='Traduções/localizações são bem vindas!' --right-color='#1E90FF' > language-new.svg
 
-python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
-python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg
-python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='5' --right-color='#FF773D' > smartphone-total.svg
-python -m pybadges --left-text='Serviços Online' --right-text='2' --right-color='#9400D3' > servicos-online-total.svg
+python -m pybadges --left-text='Situação' --right-text='Trabalho em progresso' --right-color='#FF773D' > status-work-in-progress.svg
+
+#python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
+#python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg
+#python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='5' --right-color='#FF773D' > smartphone-total.svg
+#python -m pybadges --left-text='Serviços Online' --right-text='2' --right-color='#9400D3' > servicos-online-total.svg
 #python -m pybadges --left-text='Africa' --right-text='1' --right-color='#1E90FF' > orgs-africa.svg
 #python -m pybadges --left-text='Asia' --right-text='2' --right-color='#1E90FF' > orgs-asia.svg
 #python -m pybadges --left-text='Europe' --right-text='4' --right-color='#1E90FF' > orgs-europe.svg
@@ -27,4 +29,4 @@ python -m pybadges --left-text='Serviços Online' --right-text='2' --right-color
 #python -m pybadges --left-text='Strategies to find A/IS ethics organizations' --right-text='3' --right-color='#9400D3' > other-strategies.svg
 
 # Extra badges
-#python -m pybadges --left-text='Status' --right-text='Work in progress' --right-color='#FF773D' > status-work-in-progress.svg
+# python -m pybadges --left-text='Status' --right-text='Work in progress' --right-color='#FF773D' > status-work-in-progress.svg

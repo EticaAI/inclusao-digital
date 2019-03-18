@@ -1,5 +1,7 @@
 # Windows
 
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
+
 ## Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 > _Você, ou pessoa conhecida, já tem uma base sobre como instalar/usar
 **Windows em hardware de MacBook/iMac antigo** e teria interesse em conversar com
@@ -8,7 +10,7 @@ contato para conversar com a gente, **preferencialmente antes** de abrir pull
 request. Informações prévias podem ser lidas no
 [CONTRIBUTING.md](../CONTRIBUTING.md)_
 
-### Windows otimizado para baixo uso de internet
+## Windows otimizado para baixo uso de internet
 
 _TODO: informações mínimas sobre Windows otimizado para baixo uso de internet (fititnt, 2019-03-09 04:42 BRT)_
 

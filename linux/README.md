@@ -1,5 +1,7 @@
 # Linux
 
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
+
 ## Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 > _Você, ou pessoa conhecida, já tem uma base sobre como instalar/usar
 **Linux em hardware de MacBook/iMac antigo** e teria interesse em conversar com

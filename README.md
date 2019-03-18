@@ -15,6 +15,8 @@ Frases do banner:
 
 ---
 
+# Índice de conteúdo
+
 <!-- TOC depthFrom:2 depthTo:5 -->
 
 - [Comunidades](#comunidades)

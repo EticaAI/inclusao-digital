@@ -8,9 +8,19 @@ versão 10.8 (Mountain Lion) chamava-se Mac OS X, e entre esta versão e a vers�
 10.11 (El Capitan) chamava-se OS X."_
 — Veja [macOS na Wikipédia](https://pt.wikipedia.org/wiki/MacOS)
 
+---
+
+**Recomedação: acesse também:**
+- [Hardware Macintosh](../macintosh/README.md)
+
+---
+
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
-_Nota: este arquivo não tem conteúdo neste momento, e foi adicionado como uma potencial espera de conteúdo que pode (ou não) ser criada. Volte mais tarde. Acompanhe mais detalhes via os issues do repositório principal. (fititnt, 2019-03-17 18:04 BRT)_
+Informação importante para potenciais sugestões de conteúdo neste projeto
+envolvendo sistema operacional macOS e o hardware Macintosh: devem estar
+alinhados com nosso [público alvo](../CONTRIBUTING.md#público-alvo). Geralmente
+(mas não sempre) informações envolvendo esses temas podem sair de nosso foco.
 
 ## Hackintosh Barato (Ajude-nos!)
 > _Você, ou pessoa conhecida, já tem uma base sobre como fazer

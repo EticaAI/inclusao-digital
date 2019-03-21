@@ -19,6 +19,10 @@ Windows Phone e a Apple App Store para iOS."_
 Este documento existe como uma espera para possíveis conteúdos relacionados
 exclusivamente ao hardware de smartphones.
 
+## Aumentar vida útil de baterias de smartphones
+
+_Nota: acrescentar recomendações simples para aumentar vida útil de smartphones (fititnt, 2019-03-21 05:56)_
+
 <!--
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)

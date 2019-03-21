@@ -71,10 +71,14 @@ Frases do banner:
         - [macOS virtualizado em Windows ou Linux](#macos-virtualizado-em-windows-ou-linux)
 - [Seu hardware](#seu-hardware)
     - [Smartphone](#smartphone)
+        - [Aumentar vida útil de baterias de smartphones](#aumentar-vida-útil-de-baterias-de-smartphones)
     - [Cibercafé](#cibercafé)
     - [Computador pessoal](#computador-pessoal)
     - [Ambiente de trabalho remoto](#ambiente-de-trabalho-remoto)
     - [Computador de placa única](#computador-de-placa-única)
+    - [Macintosh](#macintosh)
+        - [Adicionar memória RAM em Macs antigos (Ajude-nos!)](#adicionar-memória-ram-em-macs-antigos-ajude-nos)
+        - [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](#adicionar-disco-ssds-em-macs-antigos-ajude-nos)
 - [Seu acesso à internet](#seu-acesso-à-internet)
     - [Trabalhar offline](#trabalhar-offline)
     - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
@@ -197,6 +201,9 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Smartphone
 - [Smartphone](smartphone/README.md)
 
+#### Aumentar vida útil de baterias de smartphones
+- [Aumentar vida útil de baterias de smartphones](smartphone/README.md#aumentar-vida-útil-de-baterias-de-smartphones)
+
 ### Cibercafé
 - [Cibercafé](cybercafe/README.md)
 
@@ -208,6 +215,15 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 
 ### Computador de placa única
 - [Computador de placa única](sbc/README.md)
+
+### Macintosh
+- [Macintosh](macintosh/README.md)
+
+#### Adicionar memória RAM em Macs antigos (Ajude-nos!)
+- [Adicionar memória RAM em Macs antigos (Ajude-nos!)](macintosh/README.md)
+
+#### Adicionar disco SSDs em Macs antigos (Ajude-nos!)
+- [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](macintosh/README.md)
 
 ## Seu acesso à internet
 

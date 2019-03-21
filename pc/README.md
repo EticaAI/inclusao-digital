@@ -1,5 +1,5 @@
 # Computador pessoal
-> _"m computador pessoal ou PC (do inglês Personal Computer) é um computador de
+> _"Computador pessoal ou PC (do inglês Personal Computer) é um computador de
 pequeno porte e baixo custo, que se destina ao uso pessoal ou por um pequeno
 grupo de indivíduos. A expressão "computador pessoal" (ou sua abreviação em
 inglês PC, de "Personal Computer") é utilizada para denominar computadores de
@@ -9,10 +9,20 @@ são Microsoft Windows, Mac OS X e os sistemas baseados em Linux, e as principai
 arquiteturas são as baseadas nos processadores x86, x64 e PowerPC."_
 — Veja [Computador pessoal na Wikipédia](https://pt.wikipedia.org/wiki/Computador_pessoal)
 
+---
+
+**Recomedação: acesse também:**
+<!--- [Desenvolvedor em smartphone Android](../android/README.md)-->
+- [Desenvolvedor em Linux](../linux/README.md)
+- [Desenvolvedor em Windows](../windows/README.md)
+- [Desenvolvedor em macOS](../macos/README.md)
+
+---
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
-_Nota: este arquivo não tem conteúdo neste momento, e foi adicionado como uma potencial espera de conteúdo que pode (ou não) ser criada. Volte mais tarde. Acompanhe mais detalhes via os issues do repositório principal. (fititnt, 2019-03-17 18:04 BRT)_
+Este documento existe como uma espera para possíveis conteúdos relacionados
+exclusivamente ao hardware de computador pessoal.
 
 <!--
 ## Desenvolvimento em computador

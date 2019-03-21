@@ -11,8 +11,13 @@
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
 caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
 internet severamente limitados em relação ao comum em capitais tecnológicas.**
-
 Saiba mais sobre nosso [público alvo](CONTRIBUTING.md#público-alvo).
+
+Esta versão é voltada para pessoas desenvolvedoras dos países onde o português é
+língua oficial: Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
+Macau, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste. Ou seja, estamos
+falando de colegas de cinco continentes diferentes: África, América, Ásia,
+Europa e Oceania.
 
 <!--
 **O projeto _Recursos para pessoas desenvolvedoras de periferia_ é voltado para
@@ -72,6 +77,7 @@ Frases do banner:
     - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
     - [Internet móvel](#internet-móvel)
     - [Internet lenta](#internet-lenta)
+    - [Internet ilimitada](#internet-ilimitada)
 - [Serviços](#serviços)
     - [Gratuidades](#gratuidades)
         - [Domínio de topo](#domínio-de-topo)
@@ -204,6 +210,9 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 
 ### Internet lenta
 - [Internet lenta](network/README.md#internet-lenta)
+
+### Internet ilimitada
+- [Internet ilimitada](network/README.md#internet-ilimitada)
 
 ## Serviços
 ### Gratuidades

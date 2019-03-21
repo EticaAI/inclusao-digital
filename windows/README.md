@@ -1,4 +1,12 @@
 # Windows
+> _"Microsoft Windows (ou simplesmente Windows) é uma família de sistemas
+operacionais desenvolvidos, comercializados e vendidos pela Microsoft. É
+constituída por várias famílias de sistemas operacionais, cada qual atendendo a
+um determinado setor da indústria da computação, sendo que o sistema geralmente
+é associado com a arquitetura IBM PC compatível. As famílias ativas do Windows
+incluem Windows NT, Windows Embedded e Windows Phone; estes podem abranger
+subfamílias, como Windows CE ou Windows Server."_
+— Veja [Microsoft Windows na Wikipédia](https://pt.wikipedia.org/wiki/Microsoft_Windows)
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 

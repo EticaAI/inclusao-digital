@@ -44,3 +44,21 @@ _Nota: conteúdo mínimo deve ser adicionado em Internet móvel (fititnt, 2019-0
 ## Internet lenta
 
 _Nota: conteúdo mínimo deve ser adicionado em Internet lenta (fititnt, 2019-03-21 02:08 BRT)_
+
+## Internet ilimitada
+Internet ilimitada é o nome que este projeto usa para descrever acesso a rede
+mundial de computadores que atenda os seguintes requisitos:
+
+1. Aceitavelmente rápida
+2. Não tem velocidade reduzida parcial ou completamente por uso mais elevado durante o mês
+3. Não há censura de conteúdo (inclusive redução de qualidade/velocidade)
+
+> Nota: as três situações se aplica considerando o respectivo uso do usuário
+desenvolvedor. Por exemplo, uma pessoa que acessa internet via rádio, satisfeita
+com a velocidade e vivendo em um país com censura de conteúdo político do qual
+não teria interesse de acessar poderia ser considerada como tendo internet
+ilimitada.
+
+Esta seção existe apenas para poder ser referenciada como melhor padrão de
+acesso a internet em comparação as demais. Não será adicionado recomendações
+extras para esta situação.

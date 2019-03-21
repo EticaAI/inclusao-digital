@@ -62,7 +62,10 @@ Frases do banner:
     - [Desenvolvedor em MacOS](#desenvolvedor-em-macos)
         - [Hackintosh Barato (Ajude-nos!)](#hackintosh-barato-ajude-nos)
 - [Seu hardware](#seu-hardware)
+    - [Smartphone](#smartphone)
+    - [Cibercafé](#cibercafé)
     - [Computador pessoal](#computador-pessoal)
+    - [Computador remoto](#computador-remoto)
     - [Computador de placa única](#computador-de-placa-única)
 - [Seu acesso a internet](#seu-acesso-a-internet)
     - [Uso de internet mobile](#uso-de-internet-mobile)
@@ -158,8 +161,18 @@ linguagens de programação:
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
 
 ## Seu hardware
+
+### Smartphone
+- [Smartphone](smartphone/README.md)
+
+### Cibercafé
+- [Cibercafé](cybercafe/README.md)
+
 ### Computador pessoal
 - [Computador pessoal](pc/README.md)
+
+### Computador remoto
+- [Computador remoto](remote-desktop/README.md)
 
 ### Computador de placa única
 - [Computador de placa única](sbc/README.md)

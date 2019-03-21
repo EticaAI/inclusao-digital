@@ -1,4 +1,14 @@
-# PC
+# Computador pessoal
+> _"m computador pessoal ou PC (do inglês Personal Computer) é um computador de
+pequeno porte e baixo custo, que se destina ao uso pessoal ou por um pequeno
+grupo de indivíduos. A expressão "computador pessoal" (ou sua abreviação em
+inglês PC, de "Personal Computer") é utilizada para denominar computadores de
+mesa, computadores portáteis, PDAs ou tabletes, executando vários Sistemas
+Operacionais em várias arquiteturas. Os Sistemas Operacionais predominantes
+são Microsoft Windows, Mac OS X e os sistemas baseados em Linux, e as principais
+arquiteturas são as baseadas nos processadores x86, x64 e PowerPC."_
+— Veja [Computador pessoal na Wikipédia](https://pt.wikipedia.org/wiki/Computador_pessoal)
+
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 

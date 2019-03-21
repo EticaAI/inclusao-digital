@@ -1,4 +1,16 @@
 # Linux
+> _"Linux é um termo popularmente empregado para se referir a sistemas
+operativos (português europeu) ou sistemas operacionais (português brasileiro)
+que utilizam o Kernel Linux. O núcleo (ou kernel, em Inglês) foi desenvolvido
+pelo programador finlandês Linus Torvalds, inspirado no sistema Minix. O seu
+código fonte está disponível sob a licença GPL (versão 2) para que qualquer
+pessoa o possa utilizar, estudar, modificar e distribuir livremente de acordo
+com os termos da licença. A Free Software Foundation e seus colaboradores
+recomenda o nome GNU/Linux para descrever o sistema operacional, como resultado
+de uma disputa controversa entre membros da comunidade de software livre e
+código aberto."_
+— Veja [Linux na Wikipédia](https://pt.wikipedia.org/wiki/Linux)
+
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 

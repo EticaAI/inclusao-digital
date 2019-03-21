@@ -59,17 +59,19 @@ Frases do banner:
         - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](#linux-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em Windows](#desenvolvedor-em-windows)
         - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
-    - [Desenvolvedor em MacOS](#desenvolvedor-em-macos)
+    - [Desenvolvedor em macOS](#desenvolvedor-em-macos)
         - [Hackintosh Barato (Ajude-nos!)](#hackintosh-barato-ajude-nos)
 - [Seu hardware](#seu-hardware)
     - [Smartphone](#smartphone)
     - [Cibercafé](#cibercafé)
     - [Computador pessoal](#computador-pessoal)
-    - [Computador remoto](#computador-remoto)
+    - [Ambiente de trabalho remoto](#ambiente-de-trabalho-remoto)
     - [Computador de placa única](#computador-de-placa-única)
-- [Seu acesso a internet](#seu-acesso-a-internet)
-    - [Uso de internet mobile](#uso-de-internet-mobile)
+- [Seu acesso à internet](#seu-acesso-à-internet)
     - [Trabalhar offline](#trabalhar-offline)
+    - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
+    - [Internet móvel](#internet-móvel)
+    - [Internet lenta](#internet-lenta)
 - [Serviços](#serviços)
     - [Gratuidades](#gratuidades)
         - [Domínio de topo](#domínio-de-topo)
@@ -123,13 +125,12 @@ Independente do [seu hardware](#seu-hardware), você como pessoa desenvolvedora
 usará pelo menos um dos sistemas operacionais a seguir.
 
 Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
-uma forte tendência a priorizar conteúdo hardware com maiores limitações, como
-o desenvolver usando smartphone Android em internet 3G.
+uma forte tendência a priorizar conteúdo para situações com maiores limitações,
+como por exemplo desenvolvimento usando smartphone Android em internet móvel.
 
 ### Desenvolvedor em smartphone Android
-<!--
+
 - [Desenvolvedor em smartphone Android](android/README.md)
--->
 
 #### Empacotar Aplicativos Android em Android
 - [Empacotar Aplicativos Android em Android](android/README.md#empacotar-aplicativos-android-em-android)
@@ -148,19 +149,32 @@ linguagens de programação:
 - [Terminal para Android](android/README.md#terminal-para-android)
 
 ### Desenvolvedor em Linux
+- [Desenvolvedor em Linux](linux/README.md)
 
 #### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](linux/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 
 ### Desenvolvedor em Windows
+- [Desenvolvedor em Windows](windows/README.md)
+
 #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](windows/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 
-### Desenvolvedor em MacOS
+### Desenvolvedor em macOS
+- [Desenvolvedor em macOS](macos/README.md)
+
 #### Hackintosh Barato (Ajude-nos!)
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
 
 ## Seu hardware
+Independente do [seu sistema operacional](#seu-sistema-operacional), você como
+pessoa desenvolvedora usará pelo menos um dos hardwares abaixo.
+
+<!--
+Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
+uma forte tendência a priorizar conteúdo hardware com maiores limitações, como
+o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mobile).
+-->
 
 ### Smartphone
 - [Smartphone](smartphone/README.md)
@@ -171,20 +185,25 @@ linguagens de programação:
 ### Computador pessoal
 - [Computador pessoal](pc/README.md)
 
-### Computador remoto
-- [Computador remoto](remote-desktop/README.md)
+### Ambiente de trabalho remoto
+- [Ambiente de trabalho remoto](remote-desktop/README.md)
 
 ### Computador de placa única
 - [Computador de placa única](sbc/README.md)
 
-## Seu acesso a internet
-> Estratégias para mitigar uso limitador de acesso a internet
-
-### Uso de internet mobile
-- [Conectividade na internet](network/README.md)
+## Seu acesso à internet
 
 ### Trabalhar offline
-- [Trabalhar offline](network/README.md)
+- [Trabalhar offline](network/README.md#offline)
+
+### Ponto de acesso Wi-Fi
+- [Ponto de acesso Wi-Fi](network/README.md#ponto-de-acesso-wi-fi)
+
+### Internet móvel
+- [Internet móvel](network/README.md#internet-móvel)
+
+### Internet lenta
+- [Internet lenta](network/README.md#internet-lenta)
 
 ## Serviços
 ### Gratuidades

@@ -3,3 +3,44 @@
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg) 
 
 _Nota: este arquivo não tem conteúdo neste momento, e foi adicionado como uma potencial espera de conteúdo que pode (ou não) ser criada. Volte mais tarde. Acompanhe mais detalhes via os issues do repositório principal. (fititnt, 2019-03-17 18:04 BRT)_
+
+## Offline
+> _"Uma rede ou sistema, e por extensão o seu utilizador, diz-se em linha
+quando conectado a uma outra rede ou sistema de comunicações. Opostamente,
+fora de linha representa a indisponibilidade de acesso, a desconexão. Muito
+utilizados no passado no ramo das comunicações telefónicas e da radiofonia, a
+internet trouxe estes termos de novo ao uso corrente, sendo amplamente
+utilizados pelos internautas."_
+— Veja [Online e offline na Wikipédia](https://pt.wikipedia.org/wiki/Online_e_offline)
+
+Nota: você também pode **[fazer download deste projeto para ver offline](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip). (projeto completo por menos de 100kb!)**
+
+_Nota: conteúdo mínimo deve ser adicionado em Offline (fititnt, 2019-03-21 02:02 BRT)_
+
+## Ponto de acesso Wi-Fi
+> _"Um ponto de acesso Wi-Fi (também conhecido pelo termo inglês hotspot,
+junção de "hot", quente e "spot", ponto) é um local onde a tecnologia Wi-Fi está
+disponível. São encontrados geralmente em locais públicos, tais como cafés,
+restaurantes, hotéis e aeroportos onde, é possível conectar-se à Internet,
+utilizando qualquer computador portátil que esteja preparado para comunicar
+numa rede sem fios do tipo Wi-FI. O local onde se instala ponto de acesso deve
+ser cuidadosamente analisado, pois quem o controla consegue ver o conteúdo dos
+outros computadores conectados à rede."_
+— Veja [Hotspot (Wi-Fi) na Wikipédia](https://pt.wikipedia.org/wiki/Hotspot_(Wi-Fi))
+
+_Nota: conteúdo mínimo deve ser adicionado em Ponto de acesso Wi-Fi (fititnt, 2019-03-21 02:02 BRT)_
+
+## Internet móvel
+> _"Internet móvel pode ser definida como o uso de tecnologias de comunicação
+sem fio (wireless) para acesso a informações e aplicações Web a partir de
+dispositivos móveis, como celulares ou handhelds. A Internet móvel, pelas suas
+características, tem aspectos bem diferentes da Internet tradicional,
+tipicamente acessada por desktops. O acesso móvel apresenta peculiaridades que
+devem ser compreendidas e devidamente exploradas."_
+— Veja [Internet móvel na Wikipédia](https://pt.wikipedia.org/wiki/Internet_m%C3%B3vel)
+
+_Nota: conteúdo mínimo deve ser adicionado em Internet móvel (fititnt, 2019-03-21 02:02 BRT)_
+
+## Internet lenta
+
+_Nota: conteúdo mínimo deve ser adicionado em Internet lenta (fititnt, 2019-03-21 02:08 BRT)_

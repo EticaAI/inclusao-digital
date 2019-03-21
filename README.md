@@ -63,9 +63,12 @@ Frases do banner:
     - [Desenvolvedor em Linux](#desenvolvedor-em-linux)
         - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](#linux-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em Windows](#desenvolvedor-em-windows)
+        - [Windows otimizado para baixo uso de internet](#windows-otimizado-para-baixo-uso-de-internet)
+        - [Windows otimizado para baixo uso de RAM](#windows-otimizado-para-baixo-uso-de-ram)
         - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em macOS](#desenvolvedor-em-macos)
         - [Hackintosh Barato (Ajude-nos!)](#hackintosh-barato-ajude-nos)
+        - [macOS virtualizado em Windows ou Linux](#macos-virtualizado-em-windows-ou-linux)
 - [Seu hardware](#seu-hardware)
     - [Smartphone](#smartphone)
     - [Cibercafé](#cibercafé)
@@ -163,6 +166,12 @@ linguagens de programação:
 ### Desenvolvedor em Windows
 - [Desenvolvedor em Windows](windows/README.md)
 
+#### Windows otimizado para baixo uso de internet
+- [Windows otimizado para baixo uso de internet](windows/README.md#windows-otimizado-para-baixo-uso-de-internet)
+
+#### Windows otimizado para baixo uso de RAM
+- [Windows otimizado para baixo uso de RAM](windows/README.md#windows-otimizado-para-baixo-uso-de-ram)
+
 #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](windows/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 
@@ -171,6 +180,9 @@ linguagens de programação:
 
 #### Hackintosh Barato (Ajude-nos!)
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
+
+#### macOS virtualizado em Windows ou Linux
+- [macOS virtualizado em Windows ou Linux](macos/README.md#macos-virtualizado-em-windows-ou-linux)
 
 ## Seu hardware
 Independente do [seu sistema operacional](#seu-sistema-operacional), você como

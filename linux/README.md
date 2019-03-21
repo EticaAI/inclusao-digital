@@ -14,6 +14,20 @@ código aberto."_
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
+## Linux otimizado para baixo uso de internet
+
+_TODO: informações mínimas sobre alguma Linux otimizada para baixo uso de internet (fititnt, 2019-03-21 03:48 BRT)_
+
+## Windows otimizado para baixo uso de RAM
+
+_TODO: reunir informações mínimas de diversas discussões já realizadas nas
+comunidades do Facebook e possivelmente explicar como usar alguma das
+distribuições de linux que funcionem com pouca memória RAM, por exemplo 2GB ou
+mesmo 1GB, e ainda assim a pessoa desenvolvedora consiga programar. Vide
+https://github.com/fititnt/recursos-desenvolvimento-periferia/issues/4 e
+https://www.facebook.com/groups/osadpa/permalink/1855280917910760/
+(fititnt, 2019-03-21 03:48 BRT)_
+
 ## Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 > _Você, ou pessoa conhecida, já tem uma base sobre como instalar/usar
 **Linux em hardware de MacBook/iMac antigo** e teria interesse em conversar com

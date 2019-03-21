@@ -1,5 +1,13 @@
 # Serviços
 
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
+
+_Nota: a organização do conteúdo nesta seção de serviços poderia ser melhor.
+Isso deverá ser revisto mais tarde, em especial com adição de mais conteúdo
+(fititnt, 2019-03-21 03:36 BRT)_
+
+# Íncide de conteúdo
+
 <!-- TOC depthFrom:2 depthTo:5 -->
 
 - [Gratuidades](#gratuidades)

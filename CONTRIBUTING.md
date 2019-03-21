@@ -122,7 +122,9 @@ são:
     - Isto não só permite certa automação na geração de traduções, como
       possívelmente os tradutores já terão parte do conteúdo em sua língua.
     - Isto pode ser especialmente útil para explicações curtas de um subtópico
-
+    - Recomendação para tradutores: em especial os treixos com conteúdo da
+      Wikipédia (algo comum na descrição básica de alguns tópicos) idealmente
+      deve ser copiados da sua versão de Wikipédia. Não é preciso ser igual.
 
 ---
 

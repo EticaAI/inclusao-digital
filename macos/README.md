@@ -18,3 +18,16 @@ _Nota: este arquivo não tem conteúdo neste momento, e foi adicionado como uma 
 escrever material alinhado com esse projeto? Entre em contato para conversar com
 a gente, **preferencialmente antes** de abrir pull request. Informações
 prévias podem ser lidas no [CONTRIBUTING.md](../CONTRIBUTING.md)_
+
+## macOS virtualizado em Windows ou Linux
+Executar sistema operacional macOS dentro de uma máquina virtual usando
+softwares de virtualização como Oracle VirtualBox ou VMWare tende a exigir
+um hardware potente e ainda assim ter um macOS lento demais para conseguir
+ser produtivo.
+
+Em função da complexidade e potencial exigência de hardware potente,
+ainda que seja possível, **não recomendamos virtualização de macOS**.
+
+<!--
+https://www.pcsteps.com/2157-mac-os-x-virtual-machine-vmware-player/
+-->

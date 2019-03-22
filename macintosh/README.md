@@ -18,7 +18,7 @@ vídeo, imagem e som."_
 
 Informação importante para potenciais sugestões de conteúdo neste projeto
 envolvendo sistema operacional macOS e o hardware Macintosh: devem estar
-alinhados com nosso [público alvo](../CONTRIBUTING.md#público-alvo). Geralmente
+alinhados com nosso [público alvo](../about/README.md#público-alvo). Geralmente
 (mas não sempre) informações envolvendo esses temas podem sair de nosso foco.
 Conteúdo previamente adicionado também poderá ser removido.
 

@@ -19,7 +19,7 @@ versão 10.8 (Mountain Lion) chamava-se Mac OS X, e entre esta versão e a vers�
 
 Informação importante para potenciais sugestões de conteúdo neste projeto
 envolvendo sistema operacional macOS e o hardware Macintosh: devem estar
-alinhados com nosso [público alvo](../CONTRIBUTING.md#público-alvo). Geralmente
+alinhados com nosso [público alvo](../about/README.md#público-alvo). Geralmente
 (mas não sempre) informações envolvendo esses temas podem sair de nosso foco.
 
 ## Hackintosh Barato (Ajude-nos!)

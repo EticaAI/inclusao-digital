@@ -60,7 +60,7 @@ A lista completa pode ser vista em [Internet.org: Where we’ve launched ➚ <su
 
 ### Nosso público
 
-Em relação ao [público alvo](../../CONTRIBUTING.md#público-alvo) desta versão em
+Em relação ao [público alvo](../../about/README.md#público-alvo) desta versão em
 português do projeto, a seguir a lista dos países divididos por ter ou não ter
 possibilidade de uso de acesso ao Free Basics.
 

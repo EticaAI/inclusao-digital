@@ -4,6 +4,7 @@
 
 [![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
 [![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://periferia.etica.ai/CONTRIBUTING.html#internacionaliza%C3%A7%C3%A3o-para-permitir-localiza%C3%A7%C3%A3o)
+[![Versão](imagens/badges/version.svg)](#)
 [![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
 
 <!--
@@ -19,7 +20,7 @@ NOTA: Ao usar
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
 caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
 internet severamente limitados em relação ao comum em capitais tecnológicas.**
-Saiba mais sobre nosso [público alvo](CONTRIBUTING.md#público-alvo).
+Saiba mais sobre nosso [público alvo](about/README.md#público-alvo).
 
 Esta versão é voltada para pessoas desenvolvedoras dos países onde o português é
 língua oficial: Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
@@ -98,7 +99,7 @@ Frases do banner:
     - [Domínio de topo](#domínio-de-topo)
     - [Hospedagem de site](#hospedagem-de-site)
     - [Menções honrosas](#menções-honrosas)
-- [Avançado](#avançado)
+- [Automação](#automação)
     - [Chatbot](#chatbot)
     - [Inteligência Artificial](#inteligência-artificial)
 
@@ -145,7 +146,7 @@ Nesta área você é inspirado a:
 Independente do [seu hardware](#seu-hardware), você como pessoa desenvolvedora
 usará pelo menos um dos sistemas operacionais a seguir.
 
-Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
+Note que em função de [nosso público alvo](about/README.md#público-alvo), há
 uma forte tendência a priorizar conteúdo para situações com maiores limitações,
 como por exemplo desenvolvimento usando smartphone Android em internet móvel.
 
@@ -263,7 +264,7 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Menções honrosas
 - [Menções honrosas](service/README.md#menções-honrosas)
 
-## Avançado
+## Automação
 
 ### Chatbot
 - [Chatbot](service/README.md#chatbot)

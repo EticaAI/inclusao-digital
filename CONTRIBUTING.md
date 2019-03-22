@@ -1,4 +1,20 @@
 # Diretrizes de Contribuição
+
+---
+Aviso: neste momento apenas contribuições feitas por pessoas do próprio time
+atual podem ser aceitas, por motivos de:
+
+
+1. Dar tempo para ter mais pessoas para atuar como curadores de conteúdo
+    - Lembre-se: este projeto não é uma _lista de tudo_, mas especialmente selecionada
+2. Preparar projeto para ser movido para [Organização Etica.AI](https://github.com/EticaAI)
+3. Garantir alinhamento de envolvidos com visão de longo prazo
+    - Inclusive potencialmente (re-)decidir tal visão
+
+Saiba mais [sobre o ponto 1 aqui](team/pt/README.md).
+
+---
+
 Em poucas palavras, o objetivo desde projeto é ser uma lista de recomendações
 de recursos especialmente selecionada como potencial ótimo ponto de partida
 para o [público alvo](#público-alvo). Há preocupação adicional com

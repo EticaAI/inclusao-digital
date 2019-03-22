@@ -11,7 +11,14 @@ internet trouxe estes termos de novo ao uso corrente, sendo amplamente
 utilizados pelos internautas."_
 — Veja [Online e offline na Wikipédia](https://pt.wikipedia.org/wiki/Online_e_offline)
 
-Nota: você também pode **[fazer download deste projeto para ver offline](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip). (projeto completo por menos de 100kb!)**
+---
+
+Nota: este projeto **foi** feito para poder ser visualizado até mesmo offline.
+Faça o download no botão abaixo:
+
+[![Formato: Download completo](../imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
+
+---
 
 _Nota: conteúdo mínimo deve ser adicionado em Offline (fititnt, 2019-03-21 02:02 BRT)_
 

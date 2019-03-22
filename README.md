@@ -3,7 +3,15 @@
 [![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://periferia.etica.ai/)
 
 [![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
-[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](CONTRIBUTING.md#internacionalização-para-permitir-localização)
+[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://periferia.etica.ai/CONTRIBUTING.html#internacionaliza%C3%A7%C3%A3o-para-permitir-localiza%C3%A7%C3%A3o)
+[![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
+
+<!--
+NOTA: Ao usar
+       [![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](CONTRIBUTING.md#internacionalização-para-permitir-localização)
+      o site não renderizabem via GitHub pages, levando para o arquivo markdown. Temporariamente
+      está definido o link absoluto. (fititnt, 2019-03-21 06:12 BRT)
+-->
 
 ## Sobre o projeto
 ![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
@@ -85,14 +93,13 @@ Frases do banner:
     - [Internet móvel](#internet-móvel)
     - [Internet lenta](#internet-lenta)
     - [Internet ilimitada](#internet-ilimitada)
-- [Serviços](#serviços)
-    - [Gratuidades](#gratuidades)
-        - [Domínio de topo](#domínio-de-topo)
-        - [Hospedagem de site](#hospedagem-de-site)
-        - [Menções honrosas](#menções-honrosas)
-    - [Serviços Online](#serviços-online)
-        - [Chatbot](#chatbot)
-        - [Inteligência Artificial](#inteligência-artificial)
+- [Gratuidades](#gratuidades)
+    - [Domínio de topo](#domínio-de-topo)
+    - [Hospedagem de site](#hospedagem-de-site)
+    - [Menções honrosas](#menções-honrosas)
+- [Avançado](#avançado)
+    - [Chatbot](#chatbot)
+    - [Inteligência Artificial](#inteligência-artificial)
 
 <!-- /TOC -->
 
@@ -242,23 +249,22 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Internet ilimitada
 - [Internet ilimitada](network/README.md#internet-ilimitada)
 
-## Serviços
-### Gratuidades
-#### Domínio de topo
+## Gratuidades
+### Domínio de topo
 - [Domínio de topo](service/README.md#domínio-de-topo)
 
-#### Hospedagem de site
+### Hospedagem de site
 - [Hospedagem de site](service/README.md#hospedagem-de-site)
 
-#### Menções honrosas
+### Menções honrosas
 - [Menções honrosas](service/README.md#menções-honrosas)
 
-### Serviços Online
+## Avançado
 
-#### Chatbot
+### Chatbot
 - [Chatbot](service/README.md#chatbot)
 
-#### Inteligência Artificial
+### Inteligência Artificial
 - [Inteligência Artificial](service/README.md#inteligência-artificial)
 
 # Contribua

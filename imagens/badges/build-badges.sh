@@ -10,6 +10,7 @@ python -m pybadges --left-text='Idioma' --right-text='Português' --right-color=
 python -m pybadges --left-text='Idioma' --right-text='Traduções/localizações são bem vindas!' --right-color='#1E90FF' > language-new.svg
 
 python -m pybadges --left-text='Situação' --right-text='Trabalho em progresso' --right-color='#FF773D' > status-work-in-progress.svg
+python -m pybadges --left-text='Formato' --right-text='Download completo (60KB)' --right-color='#2ecc71' > full-download.svg
 
 #python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
 #python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg

@@ -3,22 +3,38 @@
 
 ## Público alvo
 
+### Público final
+
 **Nosso público alvo são pessoas desenvolvedoras de software que,
 ainda que momentaneamente, tenham que trabalhar usando hardware ou internet
 limitados em relação ao que é comum em capitais tecnológicas e e ainda assim
 manter uma boa produtividade.**
 
-Note que a definição acima, ainda que não seja foco, pode incluir pessoas até
-tenham poder aquisitivo muito acima da média de seu país, mas que
-temporariamente (por exemplo, quebra do seu computador principal), tenham que
-usar um mais antigo. Isso também se aplica àquelas que querem preparar doações
-e presentes para uma pessoa querida ou instituição filantrópica, mas não possuam
-recursos para fornecer equivamentos novos.
+Note que a definição acima, ainda que não seja foco principal, pode incluir até
+mesmo indivíduos que tenham poder aquisitivo muito acima da média de seu país,
+mas que temporariamente (por exemplo, quebra do seu computador principal),
+tenham que usar um mais antigo. Isso também se aplica àquelas que querem
+preparar doações e presentes para uma pessoa querida ou instituição
+filantrópica, mas não possuam recursos para fornecer equivamentos novos.
 
-### Países foco: todos os que tem língua oficial o idioma em que o projeto está escrito
-Esta versão do projeto está escrita na
-[língua portuguesa](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa). A
-[Lista de países onde o português é língua oficial](https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial)
+#### Exemplos de perfis
+Na falta de documentação de personas ([neste link tem-se apenas rascunho incompleto](../planejamento-interno/personas.md), que talvez até seja removido)
+a referência abaixo talvez possa ajudar a entender uma linha base razoável sem
+que você precise parar para ver mais a fundo as diferenças entre países foco:
+
+> O conteúdo aqui é projetado para *teoricamente* poder ser aproveitado até
+mesmo por uma [pessoa em situação de rua](https://pt.wikipedia.org/wiki/Sem-teto)
+que esteja aprendendo programação em um smartphone ou, um caso mais
+extraordinário, tal [pessoa seja refugiada](https://www.acnur.org/portugues/dados-sobre-refugio/perguntas-e-respostas/#refugiado)
+e que, mesmo já tendo alguma experiêcia com desenvolvimento de software,
+tenha de fazê-lo usando apenas smartphone/tablet/computador doado menos
+potente.
+
+## Países foco
+Nossos países foco são todos àqueles que tem também como língua oficial o idioma
+em que o projeto está escrito. Nesta caso, como é
+[língua portuguesa](https://pt.wikipedia.org/wiki/L%C3%ADngua_portuguesa), a
+[Lista de países onde o português é língua oficial](https://pt.wikipedia.org/wiki/Lista_de_pa%C3%ADses_onde_o_portugu%C3%AAs_%C3%A9_l%C3%ADngua_oficial),
 em ordem alfabética é:
 
 - [Angola](https://pt.wikipedia.org/wiki/Portugu%C3%AAs_de_Angola)
@@ -36,28 +52,17 @@ Os países acima [estão localizado em cinco continentes diferentes](https://pt.
 (África, América, Ásia, Europa e Oceania), o que implica que as contribuições
 neste projeto levem em consideração também a realidade de outros países.
 
+#### A opinião de um indivíduo pode representar um país?
 Notem também que **a opinão de um ou mais individuos não necessariamente
 representam a realidade de todo seu país**, em especial se contradizem
 estatísticas oficiais de acesso a internet e/ou quantidade de pessoas que
 hardware.
 
-### Exemplos de perfis que devem ser priorizados
-
-O conteúdo aqui é projetado para *teoricamente* poder ser aproveitado até
-mesmo por uma [pessoa em situação de rua](https://pt.wikipedia.org/wiki/Sem-teto)
-que esteja aprendendo programação em um smartphone ou, um caso mais
-extraordinário, tal [pessoa seja refugiada](https://www.acnur.org/portugues/dados-sobre-refugio/perguntas-e-respostas/#refugiado)
-e que, mesmo já tendo alguma experiêcia com desenvolvimento de software,
-tenha de fazê-lo usando apenas smartphone/tablet/computador doado menos
-potente.
-
-Ainda que outros perfis possam ser adicionados no futuro, os dois acima servem
-como referência para quem quer contribuir com conteúdo conseguir ser mais
-pragmático, porém ainda assim criativo.
-
 ## Internacionalização para permitir Localização
 
-> _"A internacionalização é a criação e o desenvolvimento de um produto, aplicação ou conteúdo de um documento que permite a localização fácil para públicos-alvo que variam em cultura, região ou idioma."_ — [Localização vs. Internacionalização da W3C](https://www.w3.org/International/questions/qa-i18n.pt-br)
+> _"A internacionalização é a criação e o desenvolvimento de um produto,
+aplicação ou conteúdo de um documento que permite a localização fácil para
+públicos-alvo que **variam em cultura**, **região** ou idioma."_ — [Localização vs. Internacionalização da W3C](https://www.w3.org/International/questions/qa-i18n.pt-br)
 
 
 Independente de previamente existir pessoal externo com interesse de traduzir

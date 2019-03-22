@@ -3,7 +3,7 @@
 [![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://periferia.etica.ai/)
 
 [![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
-[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://periferia.etica.ai/CONTRIBUTING.html#internacionaliza%C3%A7%C3%A3o-para-permitir-localiza%C3%A7%C3%A3o)
+[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://periferia.etica.ai/about/#internacionalização-para-permitir-localização)
 [![Versão](imagens/badges/version.svg)](#)
 [![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
 
@@ -22,11 +22,13 @@ caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
 internet severamente limitados em relação ao comum em capitais tecnológicas.**
 Saiba mais sobre nosso [público alvo](about/README.md#público-alvo).
 
-Esta versão é voltada para pessoas desenvolvedoras dos países onde o português é
-língua oficial: Angola, Brasil, Cabo Verde, Guiné Equatorial, Guiné-Bissau,
-Macau, Moçambique, Portugal, São Tomé e Príncipe e Timor-Leste. Ou seja, estamos
-falando de colegas de cinco continentes diferentes: África, América, Ásia,
-Europa e Oceania.
+Está versão, não apenas está no idioma português, como tem
+[especial atenção considerar variações culturais e regionais](about/README.md#internacionalização-para-permitir-localização)
+dos países onde o português é língua oficial: Angola, Brasil, Cabo Verde,
+Guiné Equatorial, Guiné-Bissau, Macau, Moçambique, Portugal, São Tomé e Príncipe
+e Timor-Leste. Ou seja, estamos falando de colegas de cinco continentes
+diferentes: África, América, Ásia, Europa e Oceana. Saiba mais sobre nossos
+[países foco](about/README.md#países-foco)
 
 <!--
 **O projeto _Recursos para pessoas desenvolvedoras de periferia_ é voltado para

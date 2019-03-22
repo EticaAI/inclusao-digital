@@ -92,6 +92,7 @@ Frases do banner:
     - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
     - [Internet móvel](#internet-móvel)
     - [Internet lenta](#internet-lenta)
+    - [Free Basics](#free-basics)
     - [Internet ilimitada](#internet-ilimitada)
 - [Gratuidades](#gratuidades)
     - [Domínio de topo](#domínio-de-topo)
@@ -245,6 +246,9 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 
 ### Internet lenta
 - [Internet lenta](network/README.md#internet-lenta)
+
+### Free Basics
+- [Free Basics](network/freebasics/README.md)
 
 ### Internet ilimitada
 - [Internet ilimitada](network/README.md#internet-ilimitada)

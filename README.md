@@ -20,7 +20,7 @@ NOTA: Ao usar
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
 caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
 internet severamente limitados em relação ao comum em capitais tecnológicas.**
-Saiba mais sobre nosso [público alvo](about/README.md#público-alvo).
+Saiba mais sobre nosso [público-alvo](about/README.md#público-alvo).
 
 Está versão, não apenas está no idioma português, como tem
 [especial atenção considerar variações culturais e regionais](about/README.md#internacionalização-para-permitir-localização)

@@ -1,12 +1,12 @@
 # Sobre o projeto Recursos para pessoas desenvolvedoras de periferia
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
-## Público alvo
+## Público-alvo
 
-### Público final
+### Público-alvo final
 
-**Nosso público alvo são pessoas desenvolvedoras de software que,
-ainda que momentaneamente, tenham que trabalhar usando hardware ou internet
+**Nosso público-alvo são pessoas desenvolvedoras de software que,
+ainda que momentaneamente, tenham que trabalhar usando hardware e/ou internet
 limitados em relação ao que é comum em capitais tecnológicas e e ainda assim
 manter uma boa produtividade.**
 
@@ -29,6 +29,17 @@ extraordinário, tal [pessoa seja refugiada](https://www.acnur.org/portugues/dad
 e que, mesmo já tendo alguma experiêcia com desenvolvimento de software,
 tenha de fazê-lo usando apenas smartphone/tablet/computador doado menos
 potente.
+
+### Público-alvo intermediário
+_Público-alvo intermediário_ é como nos referimos a organizações que teriam
+especial interesse de empoderar o que está definido no nosso público-alvo final
+justamente pelo potencial impacto social positivo do uso de tecnologia a nível
+local.
+
+Um exemplo padrão (aqui apenas como referência de tipo) é
+[O Grupo de Interesse Especial da IEEE em Tecnologia Humanitária (SIGHT) ➚](https://sight.ieee.org/),
+enquanto o caso mais extraordinário (também apenas como referência de tipo)
+é o [Serviço de Inovação do Alto Comissariado das Nações Unidas para os Refugiados ➚](https://www.unhcr.org/innovation/).
 
 ## Países foco
 Nossos países foco são todos àqueles que tem também como língua oficial o idioma

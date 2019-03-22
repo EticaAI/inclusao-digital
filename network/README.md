@@ -1,4 +1,7 @@
 # Conectividade à internet
+Saber como lidar com situações diferentes de conectividade a internet pode
+desde reduzir custos a até mesmo ser diferença entre ser ou não minimamente
+produtivo.
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg) 
 

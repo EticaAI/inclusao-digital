@@ -8,6 +8,12 @@ Internet. Em novembro de 2016, 40 milhões de pessoas estavam utilizando o
 Internet.org."_
 — Veja [Internet.org na Wikipédia](https://pt.wikipedia.org/wiki/Internet.org)
 
+> _"A neutralidade da rede (ou neutralidade da Internet, ou princípio de
+neutralidade) baseia-se no princípio de que todas as informações que trafegam
+na rede devem ser tratadas da mesma forma, navegando à mesma velocidade,
+garantindo o livre acesso a qualquer tipo de conteúdo na rede sem ferir a autonomia do usuário e não discriminar determinadas aplicações por consumo de banda larga."_
+— Veja [Neutralidade da rede na Wikipédia](https://pt.wikipedia.org/wiki/Neutralidade_da_rede)
+
 ![Situação: Trabalho em progresso](../../imagens/badges/status-work-in-progress.svg)
 
 # Índice de conteúdo
@@ -90,28 +96,31 @@ possibilidade de uso de acesso ao Free Basics.
 #### Não tem acesso via Free Basics
 
 ##### Brasil
-Além dos países citados em [Tem acesso via Free Basics](#tem-acesso-via-free-basics),
-o Brasil também foi um dos países considerados como canditato a ter opradoras
-de celular oferecendo o acesso.
+Além dos [países foco com acesso via Free Basics](#tem-acesso-via-free-basics),
+o Brasil também foi considerados como canditato a ter opradoras de telefonia
+como parceiras.
 
-Não obstante, especialistas em neutralidade de rede, em especial depois da India
-proibir o Free Basics (que já estava ativo no país), passaram a fazer forte
-pressão pública para que as pessoas se negassem a permitir que houvesse opção
-de acesso grátis a sites da plataforma free basics sob o argumento de ferir
-a neutralidade de rede até o ponto em que operadoras do Brasil preferiram
-não se envolver com o Internet.org/Free Basics (fornecer de graça acesso).
+Não obstante, _especialistas em internet_ no Brasil, em especial depois da India
+proibir o Free Basics (que até então estava ativo no país), passaram a fazer
+forte campanha para que a opinião pública fosse contrária a existência de
+de acesso grátis a sites da plataforma Free Basics sob o argumento de ferir
+a neutralidade de rede.
 
 Para os não-brasileiros (e os brasileiros que não acompanharam o caso) podem
 esperar que haja forte rejeição _especialistas em internet_ do Brasil a
 qualquer menção de Free Basics. Porém, argumentos rápidos aqui:
 
 - Argumento: _"O Free Basics fornece apenas acesso aos pobres ao Facebook"_
-  - Esse argumento é falso.
+  - Esse argumento é falso. Mesmo no início, quando haviam poucos sites,
+    tomando como exemplo a India até blogs de pessoas comuns estavam sendo
+    aceitos.
 - Argumento: _"O Free Basics é apenas para parceiros do Facebook"_
-  - Recomenda-se que vejam quais critérios são usados para cadastrar um novo
-    site no Free Basics. Note que Diretrizes Técnicas implicam em sites que
-    gastam muita pouca banda (e por isso podem ser oferecidos até de graça
-    pelas operadoras)
+  - Argumento falso, ou no mínimo de **extrema má fé**. Recomenda-se que vejam
+    quais critérios são usados para cadastrar um novo site no Free Basics.
+    Note que Diretrizes Técnicas implicam em sites que gastam muita pouca banda
+    (e por isso podem ser oferecidos até de graça pelas operadoras; seus sites
+    otimizados são tão leves que poderiam ser ofertados sem custo para quem não
+    pudesse pagar).
 - Argumento: _"O Free Basics fere a neutralidade da internet ao diferenciar acesso de um site em relação aos demais"_
   - Este argumento é verdadeiro. Porém note que no Brasil operadoras já fazem
     esse tipo de coisa, mas apenas com pacotes baratos de internet e restrito
@@ -121,14 +130,31 @@ qualquer menção de Free Basics. Porém, argumentos rápidos aqui:
     na prática pior e com menor inclusão-digital sem nem mesmo resolver esta
     argumento mais estritamente filosófico**.
 
-<!--
+###### Notícias sobre o Free Basics no Brasil
 
-###### Leituras recomendadas
+Alguns exemplos de notícias sobre o tema:
 
+- [2015-04-10: Dilma anuncia parceria com Facebook para ampliar acesso à internet ➚](https://www.bbc.com/portuguese/noticias/2015/04/150410_dilma_facebook_pai_jf)
+  - Parte do texto do link: _"A presidente Dilma Rousseff e o criador do
+    Facebook, Mark Zuckerberg, anunciaram nesta sexta-feira na Cidade do Panamá
+    uma parceria para ampliar o acesso à internet e a serviços públicos no
+    Brasil. (...) Segundo ela, a iniciativa não busca apenas levar a internet
+    a essas áreas, mas ampliar o acesso a serviços públicos por meio da rede."_
 - [2015-11-12: Ministério Publico Federal considera internet.org ilegal no Brasil ➚](http://www.abranet.org.br/Noticias/Ministerio-Publico-Federal-considera-internet.org-ilegal-no-Brasil-900.html?UserActiveTemplate=site)
-- [(data não informada): Instituto de Referência em Internet e Sociedade: Free basics, neutralidade de rede e desafios da inclusão digital no Brasil ➚](https://igarape.org.br/marcocivil/pt/)
-
--->
+- [(data não informada): Instituto de Referência em Internet e Sociedade: Free basics, neutralidade de rede e desafios da inclusão digital no Brasil ➚](http://irisbh.com.br/pt/blog/free-basics-neutralidade-de-rede-e-desafios-da-inclusao-digital-no-brasil/)
+  - Parte do texto do link:  _"A capacidade de acesso do Free Basics é reduzida
+    a uma versão simplificada do Facebook, com notícias selecionadas e serviços
+    de parceiros na iniciativa. (...) No caso do Free Basics no Brasil, o
+    acesso à Internet se daria pelo viés gratuito para as pessoas que não
+    possuem acesso a Internet. Contudo, elas estariam condicionadas ao conteúdo
+    disponibilizado pelo Facebook, promovendo um acesso limitado à Internet, o
+    que impede obtenção de informações por outros meios internos digitais e
+    fere o princípio da neutralidade de rede"_
+    - Notem: o IRIS se propôe ser referência no assunto e, em texto ativo até
+      data atual, até mesmo usa um linguajar que para uma pessoa leiga pensaria
+      que os critérios são não técnicos (como baixo uso de dados), e a maioria
+      de pessoas leigas (e jornais) tomaram decisões baseadas nesse tipo de
+      indução ao erro ou pior.
 
 ##### Guiné Equatorial
 Não temos informações sobre potencial mudança para que o Free Basics esteja

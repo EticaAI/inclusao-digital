@@ -237,6 +237,9 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 - [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](macintosh/README.md)
 
 ## Seu acesso à internet
+Saber como lidar com situações diferentes de conectividade a internet pode
+desde reduzir custos a até mesmo ser diferença entre ser ou não minimamente
+produtivo.
 
 ### Trabalhar offline
 - [Trabalhar offline](network/README.md#offline)
@@ -252,6 +255,10 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 
 ### Free Basics
 - [Free Basics](network/freebasics/README.md)
+
+Dúvidas de como funciona o Free Basics com frequência aparecem em grupos de
+Facebook e [respostas individuais nem sempre são representativas](about/README.md#a-opinião-de-um-indivíduo-pode-representar-um-país).
+Neste documento tem-se uma visão geral sobre o tema.
 
 ### Internet ilimitada
 - [Internet ilimitada](network/README.md#internet-ilimitada)

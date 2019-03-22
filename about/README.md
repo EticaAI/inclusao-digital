@@ -1,5 +1,6 @@
 # Sobre o projeto Recursos para pessoas desenvolvedoras de periferia
-![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
+
+> _"Faça o que puder, com o que tiver, onde estiver"_ — Theodore Roosevelt
 
 ## Público-alvo
 
@@ -33,13 +34,17 @@ potente.
 ### Público-alvo intermediário
 _Público-alvo intermediário_ é como nos referimos a organizações que teriam
 especial interesse de empoderar o que está definido no nosso público-alvo final
-justamente pelo potencial impacto social positivo do uso de tecnologia a nível
-local.
+justamente **pelo potencial impacto social positivo do uso de tecnologia**.
+Considerando os exemplos de perfis da linha base é provável que as organizações
+se preocupem com soluções focadas em problemas a nivel mais local e
+(principalmente organizações maiores) o façam por entender resultados de
+abordagens de baixo para cima.
 
-Um exemplo padrão (aqui apenas como referência de tipo) é
-[O Grupo de Interesse Especial da IEEE em Tecnologia Humanitária (SIGHT) ➚](https://sight.ieee.org/),
-enquanto o caso mais extraordinário (também apenas como referência de tipo)
-é o [Serviço de Inovação do Alto Comissariado das Nações Unidas para os Refugiados ➚](https://www.unhcr.org/innovation/).
+> Usando como _exemplos teóricos_ de público-alvo intermediário: uma organização
+de atuação internacional seria
+[O Grupo de Interesse Especial da IEEE em Tecnologia Humanitária (IEEE SIGHT) ➚](https://sight.ieee.org/),
+enquanto um equivalente extraordinário seria o
+[Serviço de Inovação do Alto Comissariado das Nações Unidas para os Refugiados ➚](https://www.unhcr.org/innovation/).
 
 ## Países foco
 Nossos países foco são todos àqueles que tem também como língua oficial o idioma
@@ -64,10 +69,17 @@ Os países acima [estão localizado em cinco continentes diferentes](https://pt.
 neste projeto levem em consideração também a realidade de outros países.
 
 #### A opinião de um indivíduo pode representar um país?
-Notem também que **a opinão de um ou mais individuos não necessariamente
-representam a realidade de todo seu país**, em especial se contradizem
-estatísticas oficiais de acesso a internet e/ou quantidade de pessoas que
-hardware.
+É importante ter em mente que opinão de um ou mais individuos não necessariamente
+representam a realidade de todo seu país, em especial se contradizer
+estatísticas oficiais de acesso a internet e/ou quantidade de pessoas que tem
+determinado hardware.
+
+A afirmação acima pode parecer intuitiva (ou até óbvia) mas em discussões em
+grupos de Facebook sobre "se pais tal tinha ou não Google" (implicitamente
+eram perguntas sobre [Free Basics, veja documentação aqui](../network/freebasics/README.md))
+respostas diferentes de pessoas distintas não eram atos de má fé, mas sim que
+as pessoas tem operadoras de celular diferentes e/ou desconhecem a realidade
+de outras regiões do próprio país ao fazer críticas negativas.
 
 ## Internacionalização para permitir Localização
 

@@ -18,7 +18,7 @@ código aberto."_
 
 _TODO: informações mínimas sobre alguma Linux otimizada para baixo uso de internet (fititnt, 2019-03-21 03:48 BRT)_
 
-## Windows otimizado para baixo uso de RAM
+## Linux otimizado para baixo uso de RAM
 
 _TODO: reunir informações mínimas de diversas discussões já realizadas nas
 comunidades do Facebook e possivelmente explicar como usar alguma das

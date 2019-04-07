@@ -6,6 +6,9 @@
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
+- [Prefácio](#prefácio)
+    - [Qual objetivo de longo prazo destas recomendações](#qual-objetivo-de-longo-prazo-destas-recomendações)
+    - [Perfil profissional VS perfil pessoal](#perfil-profissional-vs-perfil-pessoal)
 - [Seja apoiado](#seja-apoiado)
     - [Comunidades online](#comunidades-online)
         - [Desenvolvimento Web](#desenvolvimento-web)
@@ -21,6 +24,26 @@
 <!-- /TOC -->
 
 ---
+
+## Prefácio
+
+### Qual objetivo de longo prazo destas recomendações
+O objetivo destas recomendações de como se apresentar como (potencial)
+profissional em interações online **supõe que você tenha interesse ser percebido
+como pessoa respeitável e confiável para assumir grandes responsabilidades no
+futuro**. Se isso é sobre ser contratado em uma grande empresa, evoluir mais
+rápido em cargo onde já trabalha ou se assumir como conselheiro em uma
+organização de grande impacto na sociedade, bem, essa é uma escolha pessoal sua.
+Também fica a seu critério se prefere papéis onde pretende liderança ou ser um
+ótimo profissional para se ter em uma equipe, visto que em ambos os casos
+as recomendações aqui serão úteis.
+
+### Perfil profissional VS perfil pessoal
+
+Uma estratégia recomendada (em especial para pessoas mais jovens, que podem
+também ter menos experiência na internet, em especial relacionada a privacidade)
+é **ter um perfil pessoal** que não não necessariamente precisa seguir as
+recomendações aqui.
 
 ## Seja apoiado
 

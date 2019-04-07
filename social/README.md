@@ -7,8 +7,8 @@
 <!-- TOC depthFrom:2 depthTo:5 -->
 
 - [Prefácio](#prefácio)
-    - [Qual objetivo de longo prazo destas recomendações](#qual-objetivo-de-longo-prazo-destas-recomendações)
-    - [Perfil profissional VS perfil pessoal](#perfil-profissional-vs-perfil-pessoal)
+    - [Do objetivo: preparar você para assumir grandes responsabilidades antes dos demais](#do-objetivo-preparar-você-para-assumir-grandes-responsabilidades-antes-dos-demais)
+    - [Perfil pessoal VS Perfil profissional](#perfil-pessoal-vs-perfil-profissional)
 - [Seja apoiado](#seja-apoiado)
     - [Comunidades online](#comunidades-online)
         - [Desenvolvimento Web](#desenvolvimento-web)
@@ -27,18 +27,34 @@
 
 ## Prefácio
 
-### Qual objetivo de longo prazo destas recomendações
+### Do objetivo: preparar você para assumir grandes responsabilidades antes dos demais
 O objetivo destas recomendações de como se apresentar como (potencial)
 profissional em interações online **supõe que você tenha interesse ser percebido
 como pessoa respeitável e confiável para assumir grandes responsabilidades no
 futuro**. Se isso é sobre ser contratado em uma grande empresa, evoluir mais
 rápido em cargo onde já trabalha ou se assumir como conselheiro em uma
 organização de grande impacto na sociedade, bem, essa é uma escolha pessoal sua.
-Também fica a seu critério se prefere papéis onde pretende liderança ou ser um
-ótimo profissional para se ter em uma equipe, visto que em ambos os casos
-as recomendações aqui serão úteis.
 
-### Perfil profissional VS perfil pessoal
+Tenha em mente que nem só de habilidade técnica um profissional acaba sendo
+escolhido para liderar equipes. Um questionamento muito comum de quem cresce
+rápido em empresas e percebe que a pessoa chefe sabe menos de desenvolvimento de
+software do que ela mesma é se sentir injustiçada. Mesmo que você não pretenda
+ter um papel de liderança, esse texto assume que em vez de você precisar cair
+na armadilha de ficar se comparando e potencialmente se frustrando, desde cedo
+assumirá um papel de colaborar com as pessoas ao redor, mesmo que os demais
+não acreditem que mereçam seu esforço.
+
+**Faça o que fizer, mas atue com força de vontade, porém sem perder a gentileza**.
+Isso não significa _levar trabalho para sua casa_: um bom objetivo é ser capaz de
+estar completamente imerso no ambinete em que estiver, o que ao falarmos em trabalho
+significa também ser eficiente para poder ter uma vida fora dele.
+Ainda que este guia implicitamente também seja escrito de forma que outras
+empresas e organizações o encontrem e possam valorizar seu histórico, mesmo que
+o ambiente que esteja agora não seja o dos seus sonhos, considere que **sua
+atuação no hoje é uma forma de evolução pessoal que através da persistência
+eventualmente fará parte da seu caráter e ética de trabalho**.
+
+### Perfil pessoal VS Perfil profissional
 
 Uma estratégia recomendada (em especial para pessoas mais jovens, que podem
 também ter menos experiência na internet, em especial relacionada a privacidade)

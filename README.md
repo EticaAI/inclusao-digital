@@ -289,6 +289,6 @@ Veja [Diretrizes de Contribuição](CONTRIBUTING.md).
 
 [![Domínio Público](imagens/dominio-publico.png)](UNLICENSE)
 
-Na medida do possível segundo a lei, [Emerson Rocha](https://github.com/fititnt)
+Na medida do possível segundo a lei, [Etica.AI](https://etica.ai)
 renunciou a todos os direitos autorais e direitos conexos ou vizinhos a este
 trabalho para o [Domínio Público](UNLICENSE).

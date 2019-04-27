@@ -1,9 +1,9 @@
-# Recursos para pessoas desenvolvedoras de periferia
+# Inclusão Digital - Etica.AI
 
-[![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://periferia.etica.ai/)
+[![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://inclusao.etica.ai/)
 
 [![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
-[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://periferia.etica.ai/about/#internacionalização-para-permitir-localização)
+[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://inclusao.etica.ai/about/#internacionalização-para-permitir-localização)
 [![Versão](imagens/badges/version.svg)](#)
 [![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
 
@@ -14,12 +14,13 @@ NOTA: Ao usar
       está definido o link absoluto. (fititnt, 2019-03-21 06:12 BRT)
 -->
 
-## Sobre o projeto
-![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
-**Este projeto é resultado de curadoria de conteúdo feita com zelo e carinho
+## Sobre o projeto ![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
+
+**Recursos gratuitos de apoio à inclusão digital de pessoas desenvolvedoras de tecnologia.**
+Este projeto é resultado de curadoria de conteúdo feita com zelo e carinho
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
 caráter temporário, tenham que trabalhar com hardware e/ou conectividade à
-internet severamente limitados em relação ao comum em capitais tecnológicas.**
+internet severamente limitados em relação ao comum em capitais tecnológicas.
 Saiba mais sobre nosso [público-alvo](about/README.md#público-alvo).
 
 Está versão, não apenas está no idioma português, como tem
@@ -61,7 +62,7 @@ Frases do banner:
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
-- [Sobre o projeto](#sobre-o-projeto)
+- [Sobre o projeto ![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)](#sobre-o-projeto-situação-trabalho-em-progressoimagensbadgesstatus-work-in-progresssvg)
 - [Socialização](#socialização)
     - [Seja apoiado](#seja-apoiado)
     - [Apoie a si próprio](#apoie-a-si-próprio)

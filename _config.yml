@@ -1,1 +1,7 @@
+title: "Inclusão Digital - Etica.AI"
+description: "Recursos gratuitos de apoio à inclusão digital de pessoas desenvolvedoras de tecnologia"
+
+# see https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
+lang: 'pt'
+
 include: [CONTRIBUTING.md]

@@ -107,6 +107,7 @@ comparados à hospedagem paga._ — **Veja [Hospedagem grátis na Wikipédia](ht
 - Site: <https://pt.000webhost.com>
 - Tecnologias chave: HTML, PHP, MySQL
 - Limitações:
+  - **Subdomínios gratuitos são marcados como inseguros ao tentar compartilhar no Facebook (exige CAPTCHA para postar)
   - Espaço em disco: 1GB
   - MySQL: 2 bancos MySQL (por conta)
   - Sites: 2 sites (por conta)

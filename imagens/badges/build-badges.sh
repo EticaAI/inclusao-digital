@@ -13,6 +13,9 @@ python -m pybadges --left-text='Versão' --right-text='1.0-beta' --right-color='
 python -m pybadges --left-text='Situação' --right-text='Trabalho em progresso' --right-color='#FF773D' > status-work-in-progress.svg
 python -m pybadges --left-text='Formato' --right-text='Download completo (60KB)' --right-color='#2ecc71' > full-download.svg
 
+python -m pybadges --left-text='GitHub' --right-text='fititnt/inclusao-digital' --right-color='#237c02' > github.svg
+python -m pybadges --left-text='Website' --right-text='inclusao.etica.ai' --right-color='#237c02' > website.svg
+
 #python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg
 #python -m pybadges --left-text='Gratuidades' --right-text='3' --right-color='#1E90FF' > gratuidades-total.svg
 #python -m pybadges --left-text='Desenvolvimento em smartphone' --right-text='5' --right-color='#FF773D' > smartphone-total.svg

@@ -47,9 +47,14 @@ Para enviar sugestões, atualizações, correções e críticas, você pode:
       privada via Facebook; normalmente simplesmente adicionar na rede social
       voluntários que trabalham aqui sem explicar quem você por mensagem privada
       suas intenções pode demorar mais tempo para receber resposta.
-- Via o GitHub (público): <https://github.com/fititnt/recursos-desenvolvimento-periferia>
+- Via o GitHub (público): <https://github.com/fititnt/inclusao-digital>
+  - Nota: como estamos em uma fase de fedbacks prévio ao lançamento público caso
+    você ainda não tenha acesso ao repositório solicite junto ao e-mail da
+    pessoa mantenedora.
+<!--
   - Saiba como: [Levantar um ponto de discussão <sup>link em inglês</sup>](https://help.github.com/articles/creating-an-issue/)
   - Saiba como: [Sugerir alteração do código fonte <sup>link em inglês</sup>](https://help.github.com/articles/about-pull-requests/)
+-->
 
 ## Outras informações
 

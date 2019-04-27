@@ -1,11 +1,13 @@
 # Inclusão Digital - Etica.AI
 
-[![Banner: Recursos para pessoas desenvolvedoras de periferia](imagens/banner.png)](https://inclusao.etica.ai/)
+[![Banner: Inclusão Digital - Etica.AI](imagens/banner-inclusao-digital.png)](https://inclusao.etica.ai/)
 
 [![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
 [![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://inclusao.etica.ai/about/#internacionalização-para-permitir-localização)
 [![Versão](imagens/badges/version.svg)](#)
 [![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
+
+ [![Website: inclusao.etica.ai](imagens/badges/website.svg)](https://inclusao.etica.ai/) [![GitHub: fititnt/inclusao-digital](imagens/badges/github.svg) <sup>(acesso antecipado)</sup>](https://inclusao.etica.ai/CONTRIBUTING.html#como-contribuir)
 
 <!--
 NOTA: Ao usar
@@ -14,8 +16,8 @@ NOTA: Ao usar
       está definido o link absoluto. (fititnt, 2019-03-21 06:12 BRT)
 -->
 
-## Sobre o projeto ![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
-
+## Sobre o projeto
+![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)
 **Recursos gratuitos de apoio à inclusão digital de pessoas desenvolvedoras de tecnologia.**
 Este projeto é resultado de curadoria de conteúdo feita com zelo e carinho
 especialmente pensado para pessoas desenvolvedoras de software que, ainda que em
@@ -62,7 +64,7 @@ Frases do banner:
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
-- [Sobre o projeto ![Situação: Trabalho em progresso](imagens/badges/status-work-in-progress.svg)](#sobre-o-projeto-situação-trabalho-em-progressoimagensbadgesstatus-work-in-progresssvg)
+- [Sobre o projeto](#sobre-o-projeto)
 - [Socialização](#socialização)
     - [Seja apoiado](#seja-apoiado)
     - [Apoie a si próprio](#apoie-a-si-próprio)

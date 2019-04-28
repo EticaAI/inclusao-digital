@@ -16,6 +16,7 @@ Isso deverá ser revisto mais tarde, em especial com adição de mais conteúdo
     - [Hospedagem de site](#hospedagem-de-site)
         - [000webhost](#000webhost)
         - [GitHub Pages](#github-pages)
+        - [InfinityFree](#infinityfree)
     - [Menções honrosas](#menções-honrosas)
 - [Serviços Online](#serviços-online)
     - [Chatbot](#chatbot)
@@ -107,7 +108,7 @@ comparados à hospedagem paga._ — **Veja [Hospedagem grátis na Wikipédia](ht
 - Site: <https://pt.000webhost.com>
 - Tecnologias chave: HTML, PHP, MySQL
 - Limitações:
-  - **Subdomínios gratuitos são marcados como inseguros ao tentar compartilhar no Facebook (exige CAPTCHA para postar)
+  - **Subdomínios gratuitos são marcados como inseguros ao tentar compartilhar no Facebook** (exige CAPTCHA para postar)
   - Espaço em disco: 1GB
   - MySQL: 2 bancos MySQL (por conta)
   - Sites: 2 sites (por conta)
@@ -117,6 +118,25 @@ comparados à hospedagem paga._ — **Veja [Hospedagem grátis na Wikipédia](ht
 - Tecnologias: HTML, Git, Jekyll
 - Limitações:
   - Espaço em disco: 1GB (por repositório/site) e 100MB (arquivo individual)
+
+#### InfinityFree
+- Site: <https://infinityfree.net/>
+- Tecnologias: CPanel, HTML, PHP, MySQL
+- Extras:
+  - SeuDominio.rf.gd (subdomínio grátis de rf.gd)
+  - Free SSL (CloudFlare)
+  - Contas de e-mail
+  - Espaço em disco ilimitado
+  - Transferência de dados ilimitada
+- Limitações:
+  - Tem limitação de acessos diários
+    - Sites muito visitados eventualmente podem sofrer restrição
+  - Tem limitação de Inodes
+    - Isto é, o número de arquivos + pastas por conta
+  - A interface administrava do CPanel pode exibir propagandas
+    - Note: o seu site não tem propagandas
+  - Não tem acesso FTP/SFTP (apenas FTP, sem criptografia)
+  - Não permite MySQL remoto
 
 ### Menções honrosas
 

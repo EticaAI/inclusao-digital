@@ -81,7 +81,9 @@ Frases do banner:
     - [Smartphone](#smartphone)
     - [Tablet](#tablet)
     - [Cibercafé](#cibercafé)
+    - [Lan house](#lan-house)
     - [Computador compartilhado](#computador-compartilhado)
+    - [Computador da escola](#computador-da-escola)
     - [Computador do trabalho](#computador-do-trabalho)
     - [Computador pessoal](#computador-pessoal)
     - [Ambiente de trabalho remoto](#ambiente-de-trabalho-remoto)
@@ -208,9 +210,16 @@ _#### macOS virtualizado em Windows ou Linux
 Independente do [seu sistema operacional](#seu-sistema-operacional), você como
 pessoa desenvolvedora usará pelo menos um dos hardwares abaixo.
 
-Este guia é escrito principalmente para pessoas que tenderiam a ter
-Smartphone/Tablet em vez de computador pessoal, visto que o ultimo caso é
-mais fácil encontrar recomendações de como ser pessoa desenvolvedora.
+Este guia é escrito principalmente para pessoas que tenderiam a ter de forma
+permanente apenas um Smartphone/Tablet em vez de computador pessoal, visto que o
+último caso é mais fácil encontrar recomendações de como ser pessoa
+desenvolvedora.
+
+Note que para pessoas que mesmo para pessoas que _realmente_ tem apenas
+Smartphone, não raro podem ter acesso, ainda que temporário, a outro tipo de
+hardware (como [Computador compartilhado](#computador-compartilhado)) e
+indicação de estratégias de desenvolvimento nelas, já assumindo algumas
+dificuldades comuns, é interessante.
 
 <!--
 Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
@@ -233,9 +242,18 @@ _#### Aumentar vida útil de baterias de smartphones
 ### Cibercafé
 - [Cibercafé](cybercafe/README.md)
 
+### Lan house
+Lan house é um sinônimo de [Cibercafé](#cibercafé).
+
 ### Computador compartilhado
 As recomendações para uso de _computador compartilhado_ são as mesmas já
 listadas em [Cibercafé](#cibercafé).
+
+### Computador da escola
+
+Caso computador da escolha tenha um usuário e senha especial para cada pessoa
+que acessa, veja [Computador do trabalho](#computador-do-trabalho). Do
+contrário, veja [Computador compartilhado](#computador-compartilhado).
 
 ### Computador do trabalho
 Veja [Computador pessoal](#computador-pessoal).
@@ -293,7 +311,9 @@ de voltar a ficar offline.
 
 Dúvidas de como funciona o Free Basics com frequência aparecem em grupos de
 Facebook e [respostas individuais nem sempre são representativas](about/README.md#a-opinião-de-um-indivíduo-pode-representar-um-país).
-Neste documento tem-se uma visão geral sobre o tema.
+Neste documento tem-se uma visão geral sobre o tema, que é escrito também
+pensando em dar uma ideia geral para pessoas de outros países que tem dúvida de
+como é o acesso por esse meio.
 
 ### Internet ilimitada
 - [Internet ilimitada](network/README.md#internet-ilimitada)

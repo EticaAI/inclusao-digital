@@ -114,6 +114,11 @@ negativa em contas sociais e no próprio e-mail, escolher fotos que passam uma i
 
 ### Crie uma conta no GitHub
 
+- Site: **<https://github.com/>**  <sup>(Destino em Inglês)</sup>
+- Aplicativo do GitHub
+  - Aplicativo oficial: **Não há aplicativo oficial**. Desenvolvedor recomenda acessar o site (que é otimizado para celulares).
+  - Aplicativo de terceiros: [Sugestões de aplicativos não-oficiais para Android  ➚](https://livablesoftware.com/mobile-apps-git-github-android-iphone/) <sup>(Destino em Inglês)</sup>
+
 _TODO: fornecer explicações mínimas de erros comuns que jovens (e nem tão
 jovens assim...) desenvolvedores a não fazer quando criam uma conta no
 "Facebook dos desesenvolvedores", o GitHub. Considerar que mesmo quem está
@@ -121,6 +126,16 @@ apenas aprendendo pode ainda fazer algumas ações que já a médio prazo
 demonstram que eram pessoas dedicadas (fititnt, 2019-03-17 21:49 BRT)_
 
 ### Crie uma conta no LinkedIn
+- Site: **<https://www.linkedin.com>**
+- Aplicativo do LinkedIn para Android:
+  - LinkedIn (padrão)
+    - Link para download: <https://play.google.com/store/apps/details?id=com.linkedin.android.lite>
+    - Download: **1MB**
+    - Versão do Android: **4.4+**
+  - LinkedIn (padrão)
+    - Link para download: <https://play.google.com/store/apps/details?id=com.linkedin.android>
+    - Download: **22MB**
+    - Versão do Android: **5.0+**
 
 _TODO: fornecer explicações mínimas de erros comuns que jovens (e nem tão
 jovens assim...) cometem ao usar a rede social LinkedIn. Também levar em

@@ -5,6 +5,23 @@ produtivo.
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg) 
 
+# Índice de conteúdo
+
+<!-- TOC depthFrom:2 depthTo:5 -->
+
+- [Offline](#offline)
+    - [Acesso offline de inclusao.etica.ai](#acesso-offline-de-inclusaoeticaai)
+    - [O que fazer para acessar internet não tendo acesso a internet](#o-que-fazer-para-acessar-internet-não-tendo-acesso-a-internet)
+        - [Acesso temporário via os demais tipos de conectividade à internet](#acesso-temporário-via-os-demais-tipos-de-conectividade-à-internet)
+        - [Envio de informação via correio](#envio-de-informação-via-correio)
+- [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
+- [Internet móvel](#internet-móvel)
+    - [Internet lenta o mes inteiro VS Internet rápida poucos dias](#internet-lenta-o-mes-inteiro-vs-internet-rápida-poucos-dias)
+- [Internet lenta](#internet-lenta)
+- [Internet ilimitada](#internet-ilimitada)
+
+<!-- /TOC -->
+
 ## Offline
 > _"Uma rede ou sistema, e por extensão o seu utilizador, diz-se em linha
 quando conectado a uma outra rede ou sistema de comunicações. Opostamente,
@@ -14,16 +31,39 @@ internet trouxe estes termos de novo ao uso corrente, sendo amplamente
 utilizados pelos internautas."_
 — Veja [Online e offline na Wikipédia](https://pt.wikipedia.org/wiki/Online_e_offline)
 
----
+### Acesso offline de inclusao.etica.ai
 
 Nota: este projeto **foi** feito para poder ser visualizado até mesmo offline.
 Faça o download no botão abaixo:
 
-[![Formato: Download completo](../imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
+[![Formato: Download completo](../imagens/badges/full-download.svg?70)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
 
----
+### O que fazer para acessar internet não tendo acesso a internet
+Uma das formas de acessar a internet sem ter acesso imediato e constante à
+internet é obter dados de uma só vez, de forma que seja o suficiente pelo
+período em que você imagina que permanecerá offline.
 
-_Nota: conteúdo mínimo deve ser adicionado em Offline (fititnt, 2019-03-21 02:02 BRT)_
+Em geral a estratégia depende de perguntas como:
+
+1. Para o tempo que pretende ficar offline, que tipo de informação precisaria?
+2. Para informações que precisaria, o espaço em disco que você tem disponível
+  será suficiente? Se não for, o que priorizar?
+
+
+#### Acesso temporário via os demais tipos de conectividade à internet
+
+Tendo em mente o que você precisará, já ciente de possíveis limites de espaço
+em disco que você tem, faça o download via um dos demais métodos listados aqui:
+
+- [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
+- [Internet móvel](#internet-móvel)
+- [Internet lenta](#internet-lenta)
+- [Internet ilimitada](#internet-ilimitada)
+
+#### Envio de informação via correio
+Em alguns casos especiais, pessoas podem enviar CDs, DVDs, Pen Drives, ou até
+mesmos HDs ou SSDs com coleção de arquivos. Essa estratégia pode ser útil no
+caso de transferência de grande quantidade de arquivos.
 
 ## Ponto de acesso Wi-Fi
 > _"Um ponto de acesso Wi-Fi (também conhecido pelo termo inglês hotspot,
@@ -48,6 +88,14 @@ devem ser compreendidas e devidamente exploradas."_
 — Veja [Internet móvel na Wikipédia](https://pt.wikipedia.org/wiki/Internet_m%C3%B3vel)
 
 _Nota: conteúdo mínimo deve ser adicionado em Internet móvel (fititnt, 2019-03-21 02:02 BRT)_
+
+### Internet lenta o mes inteiro VS Internet rápida poucos dias
+Conforme 1) _sua preferência pessoal_, 2) _o dinheiro que têm disponível_ e 3)
+_ os pacotes promocionais da sua operadora de telefonia_ sua estratégia de o que
+priorizar (Internet lenta o mes inteiro VS Internet rápida poucos dias) pode ser
+diferente da usada por outras pessoas e até mesmo mudar durante um mesmo ano.
+
+Não tenha medo de testar estratégias diferentes.
 
 ## Internet lenta
 

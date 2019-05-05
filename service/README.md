@@ -6,7 +6,7 @@ _Nota: a organização do conteúdo nesta seção de serviços poderia ser melho
 Isso deverá ser revisto mais tarde, em especial com adição de mais conteúdo
 (fititnt, 2019-03-21 03:36 BRT)_
 
-# Íncide de conteúdo
+# Índice de conteúdo
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 

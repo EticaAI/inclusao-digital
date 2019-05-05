@@ -10,9 +10,11 @@ agregados em lojas online como o Google Play para Android, MS Windows Store para
 Windows Phone e a Apple App Store para iOS."_
 — Veja [Smartphone na Wikipédia](https://pt.wikipedia.org/wiki/Smartphone)
 
+![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
+
 ---
 
-**Recomedação: acesse também [Desenvolvedor em smartphone Android](../android/README.md)**
+**Recomendação: acesse também [Desenvolvedor em smartphone Android](../android/README.md)**
 
 ---
 

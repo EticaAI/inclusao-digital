@@ -16,7 +16,7 @@ usar o seu próprio smartphone como ferramenta de trabalho para desenvolvimento
 de softwares. Isto é, **no dia a dia você pode usá-las mesmo sem conexão com a
 internet**.
 
-# Íncide de conteúdo
+# Índice de conteúdo
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 

@@ -76,21 +76,16 @@ Frases do banner:
         - [Terminal para Android](#terminal-para-android)
     - [Desenvolvimento em Linux](#desenvolvimento-em-linux)
     - [Desenvolvimento em Windows](#desenvolvimento-em-windows)
-        - [Windows otimizado para baixo uso de internet](#windows-otimizado-para-baixo-uso-de-internet)
-        - [Windows otimizado para baixo uso de RAM](#windows-otimizado-para-baixo-uso-de-ram)
     - [Desenvolvimento em macOS](#desenvolvimento-em-macos)
-        - [Hackintosh Barato](#hackintosh-barato)
-        - [macOS virtualizado em Windows ou Linux](#macos-virtualizado-em-windows-ou-linux)
 - [Seu hardware](#seu-hardware)
     - [Smartphone](#smartphone)
-        - [Aumentar vida útil de baterias de smartphones](#aumentar-vida-útil-de-baterias-de-smartphones)
+    - [Tablet](#tablet)
     - [Cibercafé](#cibercafé)
+    - [Computador compartilhado](#computador-compartilhado)
+    - [Computador do trabalho](#computador-do-trabalho)
     - [Computador pessoal](#computador-pessoal)
     - [Ambiente de trabalho remoto](#ambiente-de-trabalho-remoto)
     - [Computador de placa única](#computador-de-placa-única)
-    - [Macintosh](#macintosh)
-        - [Adicionar memória RAM em Macs antigos](#adicionar-memória-ram-em-macs-antigos)
-        - [Adicionar disco SSDs em Macs antigos](#adicionar-disco-ssds-em-macs-antigos)
 - [Seu acesso à internet](#seu-acesso-à-internet)
     - [Trabalhar offline](#trabalhar-offline)
     - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
@@ -185,11 +180,13 @@ _ #### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 ### Desenvolvimento em Windows
 - [Desenvolvimento em Windows](windows/README.md)
 
-#### Windows otimizado para baixo uso de internet
+<!--
+_#### Windows otimizado para baixo uso de internet
 - [Windows otimizado para baixo uso de internet](windows/README.md#windows-otimizado-para-baixo-uso-de-internet)
 
-#### Windows otimizado para baixo uso de RAM
+_#### Windows otimizado para baixo uso de RAM
 - [Windows otimizado para baixo uso de RAM](windows/README.md#windows-otimizado-para-baixo-uso-de-ram)
+-->
 
 <!--
 _ #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
@@ -199,15 +196,21 @@ _ #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 ### Desenvolvimento em macOS
 - [Desenvolvimento em macOS](macos/README.md)
 
-#### Hackintosh Barato
+<!--
+_#### Hackintosh Barato
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
 
-#### macOS virtualizado em Windows ou Linux
+_#### macOS virtualizado em Windows ou Linux
 - [macOS virtualizado em Windows ou Linux](macos/README.md#macos-virtualizado-em-windows-ou-linux)
+-->
 
 ## Seu hardware
 Independente do [seu sistema operacional](#seu-sistema-operacional), você como
 pessoa desenvolvedora usará pelo menos um dos hardwares abaixo.
+
+Este guia é escrito principalmente para pessoas que tenderiam a ter
+Smartphone/Tablet em vez de computador pessoal, visto que o ultimo caso é
+mais fácil encontrar recomendações de como ser pessoa desenvolvedora.
 
 <!--
 Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há
@@ -218,11 +221,24 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Smartphone
 - [Smartphone](smartphone/README.md)
 
-#### Aumentar vida útil de baterias de smartphones
+### Tablet
+
+As recomendações para uso de _tablet_ são as mesmas já listadas em [Smartphone](#smartphone).
+
+<!--
+_#### Aumentar vida útil de baterias de smartphones
 - [Aumentar vida útil de baterias de smartphones](smartphone/README.md#aumentar-vida-útil-de-baterias-de-smartphones)
+-->
 
 ### Cibercafé
 - [Cibercafé](cybercafe/README.md)
+
+### Computador compartilhado
+As recomendações para uso de _computador compartilhado_ são as mesmas já
+listadas em [Cibercafé](#cibercafé).
+
+### Computador do trabalho
+Veja [Computador pessoal](#computador-pessoal).
 
 ### Computador pessoal
 - [Computador pessoal](pc/README.md)
@@ -233,22 +249,35 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Computador de placa única
 - [Computador de placa única](sbc/README.md)
 
-### Macintosh
+<!--
+_### Macintosh
 - [Macintosh](macintosh/README.md)
 
-#### Adicionar memória RAM em Macs antigos
+_#### Adicionar memória RAM em Macs antigos
 - [Adicionar memória RAM em Macs antigos (Ajude-nos!)](macintosh/README.md)
 
-#### Adicionar disco SSDs em Macs antigos
+_#### Adicionar disco SSDs em Macs antigos
 - [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](macintosh/README.md)
+-->
 
 ## Seu acesso à internet
 Saber como lidar com situações diferentes de conectividade a internet pode
 desde reduzir custos a até mesmo ser diferença entre ser ou não minimamente
 produtivo.
 
+Este guia é escrito principalmente para pessoas que tenderiam a ter
+um custo alto de acesso a internet (como o caso de
+[Internet móvel](#internet-móvel)) ou consiga fazer acesso de qualidade apenas
+de forma eventual (como [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)), e
+que por isso, **para fins práticos, estratégias para trabalhar offline são
+desejaveis**.
+
 ### Trabalhar offline
 - [Trabalhar offline](network/README.md#offline)
+
+TL;DR: em geral é recomendado que você planeje previamente o que pretende
+obter da internet e faça o download do máximo de informação que puder antes
+de voltar a ficar offline.
 
 ### Ponto de acesso Wi-Fi
 - [Ponto de acesso Wi-Fi](network/README.md#ponto-de-acesso-wi-fi)

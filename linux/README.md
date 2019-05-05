@@ -14,7 +14,7 @@ código aberto."_
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
-# Íncide de conteúdo
+# Índice de conteúdo
 
 <!-- TOC depthFrom:2 depthTo:5 -->
 
@@ -34,7 +34,8 @@ código aberto."_
 ### VSCode
 - Site Oficial: <https://code.visualstudio.com>
 - Download:
-  - **50MB** (Sem extensões extras)
+  - VSCode: **50MB** (Já com suporte para JavaScript, TypeScript, Node.js e Git)
+  - Extensões extras: tamanho variável
 - Requerimentos mínimos:
   - Espaço em disco: **200MB +**
   - Hardware:
@@ -63,6 +64,19 @@ código aberto."_
   - T-SQL
   - TypeScript
   - _Entre muitas outras!_
+
+O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que é
+executado em sua área de trabalho e está disponível para Windows, macOS e Linux.
+Ele vem com suporte embutido para JavaScript, TypeScript e Node.js e possui um
+rico ecossistema de extensões para outras linguagens (como C ++, C#, Java,
+Python, PHP, Go) e tempos de execução (como .NET e Unity).
+
+O VSCode é um editor, em primeiro lugar, e se orgulha de consumir poucos
+recursos do seu sistema. Ao contrário dos IDEs tradicionais, que tendem a
+incluir tudo, menos a pia da cozinha, você pode ajustar sua instalação para as
+tecnologias de desenvolvimento de seu interesse através de instalação de
+extensões extras.
+
 
 <!--
 NOTE: A lista de linguagens foi copiada de https://code.visualstudio.com/docs/languages/overview#_language-specific-documentation

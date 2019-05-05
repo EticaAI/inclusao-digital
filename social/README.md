@@ -12,6 +12,7 @@
         - [Exemplo de sugestões caso use perfis pessoais](#exemplo-de-sugestões-caso-use-perfis-pessoais)
 - [Seja apoiado](#seja-apoiado)
     - [Comunidades online](#comunidades-online)
+        - [Ligação Africa Brasil (Programação e informática)](#ligação-africa-brasil-programação-e-informática)
         - [Desenvolvimento Web](#desenvolvimento-web)
         - [Etica.AI](#eticaai)
 - [Apoie a si próprio](#apoie-a-si-próprio)
@@ -91,6 +92,9 @@ Esta sessão de **comunidades** área é fornecido uma lista de fórums online a
 pessoas moderadoras e outros membros tenderão a ser amigáveis pessoas
 desenvolvedoras que potencialmente enfrentam desafios aos quais esse repositório
 completo procura resolver.
+
+#### Ligação Africa Brasil (Programação e informática)
+- Grupo de Facebook: <https://www.facebook.com/groups/africabr/>
 
 #### Desenvolvimento Web
 - Grupo de Facebook: <https://www.facebook.com/groups/desenvolvimentoweb>

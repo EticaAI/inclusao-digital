@@ -75,13 +75,11 @@ Frases do banner:
         - [IDEs para programar usando Android](#ides-para-programar-usando-android)
         - [Terminal para Android](#terminal-para-android)
     - [Desenvolvedor em Linux](#desenvolvedor-em-linux)
-        - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](#linux-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em Windows](#desenvolvedor-em-windows)
         - [Windows otimizado para baixo uso de internet](#windows-otimizado-para-baixo-uso-de-internet)
         - [Windows otimizado para baixo uso de RAM](#windows-otimizado-para-baixo-uso-de-ram)
-        - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
     - [Desenvolvedor em macOS](#desenvolvedor-em-macos)
-        - [Hackintosh Barato (Ajude-nos!)](#hackintosh-barato-ajude-nos)
+        - [Hackintosh Barato](#hackintosh-barato)
         - [macOS virtualizado em Windows ou Linux](#macos-virtualizado-em-windows-ou-linux)
 - [Seu hardware](#seu-hardware)
     - [Smartphone](#smartphone)
@@ -91,8 +89,8 @@ Frases do banner:
     - [Ambiente de trabalho remoto](#ambiente-de-trabalho-remoto)
     - [Computador de placa única](#computador-de-placa-única)
     - [Macintosh](#macintosh)
-        - [Adicionar memória RAM em Macs antigos (Ajude-nos!)](#adicionar-memória-ram-em-macs-antigos-ajude-nos)
-        - [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](#adicionar-disco-ssds-em-macs-antigos-ajude-nos)
+        - [Adicionar memória RAM em Macs antigos](#adicionar-memória-ram-em-macs-antigos)
+        - [Adicionar disco SSDs em Macs antigos](#adicionar-disco-ssds-em-macs-antigos)
 - [Seu acesso à internet](#seu-acesso-à-internet)
     - [Trabalhar offline](#trabalhar-offline)
     - [Ponto de acesso Wi-Fi](#ponto-de-acesso-wi-fi)
@@ -178,8 +176,11 @@ linguagens de programação:
 ### Desenvolvedor em Linux
 - [Desenvolvedor em Linux](linux/README.md)
 
-#### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
+<!--
+_ #### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Linux em hardware de MacBook/iMac antigo (Ajude-nos!)](linux/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
+-->
+
 
 ### Desenvolvedor em Windows
 - [Desenvolvedor em Windows](windows/README.md)
@@ -190,13 +191,15 @@ linguagens de programação:
 #### Windows otimizado para baixo uso de RAM
 - [Windows otimizado para baixo uso de RAM](windows/README.md#windows-otimizado-para-baixo-uso-de-ram)
 
-#### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
+<!--
+_ #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](windows/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
+-->
 
 ### Desenvolvedor em macOS
 - [Desenvolvedor em macOS](macos/README.md)
 
-#### Hackintosh Barato (Ajude-nos!)
+#### Hackintosh Barato
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)
 
 #### macOS virtualizado em Windows ou Linux
@@ -233,10 +236,10 @@ o desenvolver usando smartphone Android em [internet móvel](#uso-de-internet-mo
 ### Macintosh
 - [Macintosh](macintosh/README.md)
 
-#### Adicionar memória RAM em Macs antigos (Ajude-nos!)
+#### Adicionar memória RAM em Macs antigos
 - [Adicionar memória RAM em Macs antigos (Ajude-nos!)](macintosh/README.md)
 
-#### Adicionar disco SSDs em Macs antigos (Ajude-nos!)
+#### Adicionar disco SSDs em Macs antigos
 - [Adicionar disco SSDs em Macs antigos (Ajude-nos!)](macintosh/README.md)
 
 ## Seu acesso à internet

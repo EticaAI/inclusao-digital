@@ -14,11 +14,73 @@ código aberto."_
 
 ![Situação: Trabalho em progresso](../imagens/badges/status-work-in-progress.svg)
 
-## Linux otimizado para baixo uso de internet
+# Íncide de conteúdo
+
+<!-- TOC depthFrom:2 depthTo:5 -->
+
+- [Editor de código](#editor-de-código)
+    - [VSCode](#vscode)
+- [IDE](#ide)
+- [Otimização do sistema operacional Linux](#otimização-do-sistema-operacional-linux)
+    - [Linux otimizado para baixo uso de internet](#linux-otimizado-para-baixo-uso-de-internet)
+    - [Linux otimizado para baixo uso de RAM](#linux-otimizado-para-baixo-uso-de-ram)
+
+<!-- /TOC -->
+
+---
+
+## Editor de código
+
+### VSCode
+- Site Oficial: <https://code.visualstudio.com>
+- Download:
+  - **50MB** (Sem extensões extras)
+- Requerimentos mínimos:
+  - Espaço em disco: **200MB +**
+  - Hardware:
+    - Processador: **1.6GHz +** (recomendado, poderia ser menos)
+    - RAM: **1GB +**
+  - Versão de Linux:
+    - Linux (Debian): Ubuntu Desktop 14.04, Debian 7
+    - Linux (Red Hat): Red Hat Enterprise Linux 7, CentOS 7, Fedora 23
+    - _Outras versões de Linux, com ajustes extras, são suportadas_
+- Linguagens:
+  - C/C++
+  - C# (& .NET Core, ASP.NET)
+  - CSS
+  - Dockerfile
+  - Go
+  - HTML
+  - Java (& Tomcat, Jetty, Spring Boot)
+  - JavaScript (& NodeJS; React, Angular, Vue, Ember,...)
+  - JSON
+  - Less
+  - Markdown
+  - PHP
+  - PowerShell
+  - Python (& Django, Flask, Jupyter)
+  - SCSS
+  - T-SQL
+  - TypeScript
+  - _Entre muitas outras!_
+
+<!--
+NOTE: A lista de linguagens foi copiada de https://code.visualstudio.com/docs/languages/overview#_language-specific-documentation
+      e foi listada por ter página específica no site oficial do VSCode com mais
+      detalhes sobre a linguagem. (fititnt, 2019-05-05 04:55 BRT)
+-->
+
+## IDE
+
+_Sem sugestão de IDEs (Ambiente de Desenvolvimento Integrado) neste momento._
+
+## Otimização do sistema operacional Linux
+
+### Linux otimizado para baixo uso de internet
 
 _TODO: informações mínimas sobre alguma Linux otimizada para baixo uso de internet (fititnt, 2019-03-21 03:48 BRT)_
 
-## Linux otimizado para baixo uso de RAM
+### Linux otimizado para baixo uso de RAM
 
 _TODO: reunir informações mínimas de diversas discussões já realizadas nas
 comunidades do Facebook e possivelmente explicar como usar alguma das
@@ -29,7 +91,7 @@ https://www.facebook.com/groups/osadpa/permalink/1855280917910760/
 (fititnt, 2019-03-21 03:48 BRT)_
 
 <!--
-## Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
+_ ## Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 > _Você, ou pessoa conhecida, já tem uma base sobre como instalar/usar
 **Linux em hardware de MacBook/iMac antigo** e teria interesse em conversar com
 outras pessoas para escrever material alinhado com esse projeto? Entre em

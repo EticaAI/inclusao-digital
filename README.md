@@ -70,15 +70,15 @@ Frases do banner:
     - [Apoie a si próprio](#apoie-a-si-próprio)
     - [Apoie os demais](#apoie-os-demais)
 - [Seu sistema operacional](#seu-sistema-operacional)
-    - [Desenvolvedor em smartphone Android](#desenvolvedor-em-smartphone-android)
+    - [Desenvolvimento em smartphone Android](#desenvolvimento-em-smartphone-android)
         - [Empacotar Aplicativos Android em Android](#empacotar-aplicativos-android-em-android)
         - [IDEs para programar usando Android](#ides-para-programar-usando-android)
         - [Terminal para Android](#terminal-para-android)
-    - [Desenvolvedor em Linux](#desenvolvedor-em-linux)
-    - [Desenvolvedor em Windows](#desenvolvedor-em-windows)
+    - [Desenvolvimento em Linux](#desenvolvimento-em-linux)
+    - [Desenvolvimento em Windows](#desenvolvimento-em-windows)
         - [Windows otimizado para baixo uso de internet](#windows-otimizado-para-baixo-uso-de-internet)
         - [Windows otimizado para baixo uso de RAM](#windows-otimizado-para-baixo-uso-de-ram)
-    - [Desenvolvedor em macOS](#desenvolvedor-em-macos)
+    - [Desenvolvimento em macOS](#desenvolvimento-em-macos)
         - [Hackintosh Barato](#hackintosh-barato)
         - [macOS virtualizado em Windows ou Linux](#macos-virtualizado-em-windows-ou-linux)
 - [Seu hardware](#seu-hardware)
@@ -153,9 +153,9 @@ Note que em função de [nosso público alvo](about/README.md#público-alvo), h�
 uma forte tendência a priorizar conteúdo para situações com maiores limitações,
 como por exemplo desenvolvimento usando smartphone Android em internet móvel.
 
-### Desenvolvedor em smartphone Android
+### Desenvolvimento em smartphone Android
 
-- [Desenvolvedor em smartphone Android](android/README.md)
+- [Desenvolvimento em smartphone Android](android/README.md)
 
 #### Empacotar Aplicativos Android em Android
 - [Empacotar Aplicativos Android em Android](android/README.md#empacotar-aplicativos-android-em-android)
@@ -173,8 +173,8 @@ linguagens de programação:
 #### Terminal para Android
 - [Terminal para Android](android/README.md#terminal-para-android)
 
-### Desenvolvedor em Linux
-- [Desenvolvedor em Linux](linux/README.md)
+### Desenvolvimento em Linux
+- [Desenvolvimento em Linux](linux/README.md)
 
 <!--
 _ #### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
@@ -182,8 +182,8 @@ _ #### Linux em hardware de MacBook/iMac antigo (Ajude-nos!)
 -->
 
 
-### Desenvolvedor em Windows
-- [Desenvolvedor em Windows](windows/README.md)
+### Desenvolvimento em Windows
+- [Desenvolvimento em Windows](windows/README.md)
 
 #### Windows otimizado para baixo uso de internet
 - [Windows otimizado para baixo uso de internet](windows/README.md#windows-otimizado-para-baixo-uso-de-internet)
@@ -196,8 +196,8 @@ _ #### Windows em hardware de MacBook/iMac antigo (Ajude-nos!)
 - [Windows em hardware de MacBook/iMac antigo (Ajude-nos!)](windows/README.md#windows-em-hardware-de-macbookimac-antigo-ajude-nos)
 -->
 
-### Desenvolvedor em macOS
-- [Desenvolvedor em macOS](macos/README.md)
+### Desenvolvimento em macOS
+- [Desenvolvimento em macOS](macos/README.md)
 
 #### Hackintosh Barato
 - [Hackintosh Barato (Ajude-nos!)](macos/README.md#hackintosh-barato-ajude-nos)

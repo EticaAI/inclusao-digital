@@ -9,6 +9,7 @@
 - [Prefácio](#prefácio)
     - [Do objetivo: preparar você para assumir grandes responsabilidades antes dos demais](#do-objetivo-preparar-você-para-assumir-grandes-responsabilidades-antes-dos-demais)
     - [Perfil pessoal VS Perfil profissional](#perfil-pessoal-vs-perfil-profissional)
+        - [Exemplo de sugestões caso use perfis pessoais](#exemplo-de-sugestões-caso-use-perfis-pessoais)
 - [Seja apoiado](#seja-apoiado)
     - [Comunidades online](#comunidades-online)
         - [Desenvolvimento Web](#desenvolvimento-web)
@@ -60,6 +61,28 @@ Uma estratégia recomendada (em especial para pessoas mais jovens, que podem
 também ter menos experiência na internet, em especial relacionada a privacidade)
 é **ter um perfil pessoal** que não não necessariamente precisa seguir as
 recomendações aqui.
+
+#### Exemplo de sugestões caso use perfis pessoais
+
+1. **Não use o mesmo nome usado nos perfis profissionais**.
+    - Bom: usar apenas parte do seu nome no perfil pessoal
+        - Esta é uma boa alternativa quando seu nome curto é comum demais
+    - Ótimo: usar um apelido (um nome que apenas amigos saibam que é você)
+        - Note: especialmente no Facebook **caso sua conta receba uma
+          denúncia** podem obrigar você a usar seu nome verdadeiro
+2. **Não use a mesma foto do perfil profissional na do perfil pessoal**
+    - Note: em alguns casos é possível fazer "busca reversa" de imagems, e
+    encontrar o perfil pessoal por busca da foto usada em perfis profissionais
+    - Considere que mesmo que uma pessoa não faça busca reversa de imagem, cedo
+      ou tarde o reuso de mesma imagem pode permitir que seja identificado
+3. **Mantenha o conteúdo que posta como privado (apenas para amigos)**
+    - Esta alternativa é útil em especial se é dificil para você usar um nome
+      sufucientemente diferente do usado eu seus perfis profissionais.
+4. **Tenha dois e-mails: um pessoal e um profissional**
+
+<!--
+4. **(Caso haja opção) desative exibição publica de quem são seus amigos**
+-->
 
 ## Seja apoiado
 

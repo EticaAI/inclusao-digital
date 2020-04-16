@@ -8,12 +8,12 @@
 
 python -m pybadges --left-text='Idioma' --right-text='Português' --right-color='#1E90FF' > language-portuguese.svg
 python -m pybadges --left-text='Idioma' --right-text='Traduções são bem vindas!' --right-color='#1E90FF' > language-new.svg
-python -m pybadges --left-text='Versão' --right-text='1.0-beta' --right-color='#808080' > version.svg
+python -m pybadges --left-text='Versão' --right-text='1.0.0-beta' --right-color='#808080' > version.svg
 
 python -m pybadges --left-text='Situação' --right-text='Trabalho em progresso' --right-color='#FF773D' > status-work-in-progress.svg
 python -m pybadges --left-text='Formato' --right-text='Download completo (70KB)' --right-color='#2ecc71' > full-download.svg
 
-python -m pybadges --left-text='GitHub' --right-text='fititnt/inclusao-digital' --right-color='#237c02' > github.svg
+python -m pybadges --left-text='GitHub' --right-text='EticaAI/inclusao-digital' --right-color='#237c02' > github.svg
 python -m pybadges --left-text='Website' --right-text='inclusao.etica.ai' --right-color='#237c02' > website.svg
 
 #python -m pybadges --left-text='Comunidades' --right-text='2' --right-color='#26A65B' > grupos-total.svg

@@ -2,12 +2,12 @@
 
 [![Banner: Inclusão Digital - Etica.AI](imagens/banner-inclusao-digital.png)](https://inclusao.etica.ai/)
 
-[![Idioma: Português](imagens/badges/language-portuguese.svg)](#)
-[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg)](https://inclusao.etica.ai/about/#internacionalização-para-permitir-localização)
-[![Versão](imagens/badges/version.svg)](#)
-[![Formato: Download completo](imagens/badges/full-download.svg)](https://github.com/fititnt/recursos-desenvolvimento-periferia/archive/master.zip)
+[![Idioma: Português](imagens/badges/language-portuguese.svg?1)](#)
+[![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg?1)](https://inclusao.etica.ai/about/#internacionalização-para-permitir-localização)
+[![Versão](imagens/badges/version.svg?1)](#)
+[![Formato: Download completo](imagens/badges/full-download.svg?1)](https://github.com/EticaAI/inclusao-digital/archive/master.zip)
 
- [![Website: inclusao.etica.ai](imagens/badges/website.svg)](https://inclusao.etica.ai/) [![GitHub: fititnt/inclusao-digital](imagens/badges/github.svg) <sup>(acesso antecipado)</sup>](https://inclusao.etica.ai/CONTRIBUTING.html#como-contribuir)
+ [![Website: inclusao.etica.ai](imagens/badges/website.svg?1)](https://inclusao.etica.ai/) [![GitHub: EticaAI/inclusao-digital](imagens/badges/github.svg)](https://inclusao.etica.ai/CONTRIBUTING.html#como-contribuir)
 
 <!--
 NOTA: Ao usar
@@ -215,11 +215,12 @@ permanente apenas um Smartphone/Tablet em vez de computador pessoal, visto que o
 último caso é mais fácil encontrar recomendações de como ser pessoa
 desenvolvedora.
 
-Note que para pessoas que mesmo para pessoas que _realmente_ tem apenas
-Smartphone, não raro podem ter acesso, ainda que temporário, a outro tipo de
-hardware (como [Computador compartilhado](#computador-compartilhado)) e
-indicação de estratégias de desenvolvimento nelas, já assumindo algumas
-dificuldades comuns, é interessante.
+Note que mesmo para pessoas que _realmente_ tem apenas Smartphone, não raro
+podem ter acesso, ainda que temporário, a outro tipo de hardware (como
+[Computador compartilhado](#computador-compartilhado)). Por isso a
+indicação de estratégias de desenvolvimento nas demais, já assumindo algumas
+dificuldades comuns de alguém que não teria tanta experiência nelas, é
+pertinente até mesmo para quem não as possui.
 
 <!--
 Note que em função de [nosso público alvo](CONTRIBUTING.md#público-alvo), há

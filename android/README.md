@@ -58,7 +58,7 @@ internet após o download inicial dos aplicativos.
 #### DroidScript
 - Download:
   - Google Play: **<https://play.google.com/store/apps/details?id=com.smartphoneremote.androidscriptfree>**
-  - Tamanho: **9,9MB** (verificado em 2019-03-03)
+  - Tamanho: **7,7MB** (verificado em 2020-11-19)
 - Requisito mínimos:
   - Versão do Android: **4.1+**
 - Links do desenvolvedor:
@@ -71,18 +71,47 @@ internet após o download inicial dos aplicativos.
 #### QLua
 - Download:
   - Google Play: **<https://play.google.com/store/apps/details?id=com.quseit.qlua5pro2>**
-  - Tamanho: **4,2MB**
+  - Tamanho: **6,3MB** (verificado em 2020-11-19)
 - Requisito mínimos:
-  - Versão do Android: **2.3+**
+  - Versão do Android: **4.0+**
 
 ### Python
 
 #### QPython
 - Download:
   - Google Play: **<https://play.google.com/store/apps/details?id=org.qpython.qpy>**
-  - Tamanho: **22MB** (verificado em 2019-03-03)
+  - Tamanho: **57MB** (verificado em 2020-11-19)
 - Requisito mínimos:
   - Versão do Android: **4.0+**
+  - Links do desenvolvedor:
+  - Site Oficial: <https://www.qpython.com/> <sup>destino em inglês</sup>
+
+### IDEs com suporte para várias linguagens e tecnologias
+
+### Dcoder
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.paprbit.dcoder>**
+  - Tamanho: **13MB** (verificado em 2020-11-19)
+- Requisito mínimos:
+  - Versão do Android: **4.1+**
+- Links do desenvolvedor:
+  - Site Oficial: <https://dcoder.tech/> <sup>destino em inglês</sup>
+
+### Quoda
+- Download:
+  - Google Play: **<hthttps://play.google.com/store/apps/details?id=com.henrythompson.quoda>**
+  - Tamanho: **8,5MB** (verificado em 2020-11-19)
+- Requisito mínimos:
+  - Versão do Android: **4.0.3+**
+
+### Acode
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.foxdebug.acodefree>**
+  - Tamanho: **7,4MB** (verificado em 2020-11-19)
+- Requisito mínimos:
+  - Versão do Android: **5.1+**
+- Links do desenvolvedor:
+  - Site Oficial: <https://acode.foxdebug.com/> <sup>destino em inglês</sup>
 
 ## Terminal para Android
 

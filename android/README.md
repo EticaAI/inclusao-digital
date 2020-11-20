@@ -94,6 +94,7 @@ internet após o download inicial dos aplicativos.
   - Tamanho: **13MB** (verificado em 2020-11-19)
 - Requisito mínimos:
   - Versão do Android: **4.1+**
+  - Acesso à internet: **requer conexão ativa** (não funciona offline)
 - Links do desenvolvedor:
   - Site Oficial: <https://dcoder.tech/> <sup>destino em inglês</sup>
 

@@ -97,6 +97,13 @@ internet após o download inicial dos aplicativos.
   - Acesso à internet: **requer conexão ativa** (não funciona offline)
 - Links do desenvolvedor:
   - Site Oficial: <https://dcoder.tech/> <sup>destino em inglês</sup>
+  
+### Quoda
+- Download:
+  - Google Play: **<hthttps://play.google.com/store/apps/details?id=com.henrythompson.quoda>**
+  - Tamanho: **8,5MB** (verificado em 2020-11-21)
+- Requisito mínimos:
+  - Versão do Android: **4.0.3+**
 
 ## Terminal para Android
 

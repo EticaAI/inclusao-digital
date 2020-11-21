@@ -100,7 +100,7 @@ internet após o download inicial dos aplicativos.
   
 ### Quoda
 - Download:
-  - Google Play: **<hthttps://play.google.com/store/apps/details?id=com.henrythompson.quoda>**
+  - Google Play: **<https://play.google.com/store/apps/details?id=com.henrythompson.quoda>**
   - Tamanho: **8,5MB** (verificado em 2020-11-21)
 - Requisito mínimos:
   - Versão do Android: **4.0.3+**

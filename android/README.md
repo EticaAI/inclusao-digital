@@ -85,6 +85,26 @@ internet após o download inicial dos aplicativos.
   - Versão do Android: **4.0+**
   - Links do desenvolvedor:
   - Site Oficial: <https://www.qpython.com/> <sup>destino em inglês</sup>
+  
+### C / C++
+
+#### CppDroid
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=name.antonsmirnov.android.cppdroid>**
+  - Tamanho: **46MB**
+- Requisito mínimos:
+  - Versão do Android: **4.4W+**
+  - Espaço em disco: **215MB**
+  - Links do desenvolvedor:
+  - Site Oficial: <http://www.cppdroid.info> <sup>destino em inglês</sup>
+
+#### Cxxdroid
+- Download:
+  - Google Play: **<https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid>**
+  - Tamanho: **23MB**
+- Requisito mínimos:
+  - Versão do Android: **4.4+**
+  - Espaço em disco: **150MB**
 
 ### IDEs com suporte para várias linguagens e tecnologias
 

@@ -166,6 +166,14 @@ linguagens de programação:
 - JavaScript
 - Lua
 - Python
+- C / C++ / C#
+- PHP
+- Java
+- Ruby
+- Kotlin
+- Dart
+- Go
+- Swift
 
 #### Terminal para Android
 - [Terminal para Android](android/README.md#terminal-para-android)

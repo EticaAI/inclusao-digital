@@ -69,6 +69,7 @@ alinhados com nosso [público alvo](../about/README.md#público-alvo). Geralment
   - SCSS
   - T-SQL
   - TypeScript
+  - Dart (Flutter)
   - _Entre muitas outras!_
 
 O Visual Studio Code é um editor de código-fonte leve, mas poderoso, que é

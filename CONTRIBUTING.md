@@ -19,7 +19,7 @@ Saiba mais [sobre o ponto 1 aqui](team/pt/README.md).
 Em poucas palavras, o objetivo desde projeto é ser uma lista de recomendações
 de recursos especialmente selecionada como potencial ótimo ponto de partida
 para o [público alvo](about/README.md#público-alvo). Há preocupação adicional com
-[manutenabilidade para eventuais tradudores](about/README.md#internacionalização-para-permitir-localização).
+[manutenabilidade para eventuais tradutores](about/README.md#internacionalização-para-permitir-localização).
 
 As interações entre voluntários é regida pelo [Código de Conduta para Colaboradores](code-of-conduct.md).
 

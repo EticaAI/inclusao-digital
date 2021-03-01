@@ -5,7 +5,7 @@
 [![Idioma: Português](imagens/badges/language-portuguese.svg?1)](#)
 [![Traduções/localizações são bem vindas!](imagens/badges/language-new.svg?1)](https://inclusao.etica.ai/about/#internacionalização-para-permitir-localização)
 [![Versão](imagens/badges/version.svg?1)](#)
-[![Formato: Download completo](imagens/badges/full-download.svg?1)](https://github.com/EticaAI/inclusao-digital/archive/master.zip)
+[![Formato: Download completo](imagens/badges/full-download.svg?1)](https://github.com/EticaAI/inclusao-digital/archive/main.zip)
 
  [![Website: inclusao.etica.ai](imagens/badges/website.svg?1)](https://inclusao.etica.ai/) [![GitHub: EticaAI/inclusao-digital](imagens/badges/github.svg)](https://inclusao.etica.ai/CONTRIBUTING.html#como-contribuir)
 
